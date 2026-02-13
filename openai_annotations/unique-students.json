@@ -1,0 +1,22 @@
+{
+  "id": "unique-students",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "уникални числа",
+      "число N",
+      "N числа ai",
+      "броя на уникалните елементи",
+      "изхода"
+    ],
+    "key_verbs": [
+      "намерете",
+      "изпишете",
+      "давате",
+      "забранено",
+      "използването"
+    ]
+  }
+}

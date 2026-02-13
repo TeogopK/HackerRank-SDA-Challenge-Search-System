@@ -1,0 +1,22 @@
+{
+  "id": "challenge-1693",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "броя на възлите",
+      "всяко ниво",
+      "нулево ниво",
+      "първо ниво",
+      "корена на дървото"
+    ],
+    "key_verbs": [
+      "намира",
+      "приема",
+      "принтират",
+      "разделени",
+      "очакваният"
+    ]
+  }
+}

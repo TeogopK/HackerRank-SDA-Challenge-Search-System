@@ -1,0 +1,22 @@
+{
+  "id": "reverse-a-linked-list",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "linked list",
+      "next pointers",
+      "head node",
+      "data values",
+      "test cases"
+    ],
+    "key_verbs": [
+      "reverse",
+      "change",
+      "manipulate",
+      "return",
+      "complete"
+    ]
+  }
+}

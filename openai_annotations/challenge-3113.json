@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3113",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "SinglyLinkedList",
+      "sum elements",
+      "startPos",
+      "endPos",
+      "fail_grouping"
+    ],
+    "key_verbs": [
+      "implement",
+      "sum",
+      "replace",
+      "print",
+      "execute"
+    ]
+  }
+}

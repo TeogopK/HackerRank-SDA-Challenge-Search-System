@@ -1,0 +1,22 @@
+{
+  "id": "los-binares",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "блокове",
+      "адреси",
+      "заявки",
+      "разстояние",
+      "град"
+    ],
+    "key_verbs": [
+      "изчислява",
+      "построите",
+      "опита",
+      "определите",
+      "съществува"
+    ]
+  }
+}

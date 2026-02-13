@@ -1,0 +1,22 @@
+{
+  "id": "tree-height-of-a-binary-tree",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "height of a binary tree",
+      "number of edges",
+      "root of a binary tree",
+      "single node",
+      "binary search tree"
+    ],
+    "key_verbs": [
+      "return",
+      "complete",
+      "insert",
+      "pass",
+      "denote"
+    ]
+  }
+}

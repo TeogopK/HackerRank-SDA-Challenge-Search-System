@@ -1,0 +1,22 @@
+{
+  "id": "0-1-1",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "булев масив",
+      "най-голям подмасив",
+      "броя на нулите",
+      "броя на единиците",
+      "размерът на подмасива"
+    ],
+    "key_verbs": [
+      "намерите",
+      "въвежда",
+      "извежда",
+      "броят",
+      "равен"
+    ]
+  }
+}

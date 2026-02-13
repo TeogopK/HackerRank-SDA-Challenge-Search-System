@@ -1,0 +1,22 @@
+{
+  "id": "1-454",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "матрица",
+      "координати",
+      "път",
+      "клетка",
+      "сума"
+    ],
+    "key_verbs": [
+      "намирате",
+      "стигнете",
+      "движите",
+      "събирате",
+      "намерете"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "implement-nearest-neighbour",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "KD tree",
+      "closest point",
+      "integer coordinates",
+      "K-dimensional space",
+      "distance"
+    ],
+    "key_verbs": [
+      "implement",
+      "find",
+      "calculate",
+      "test",
+      "output"
+    ]
+  }
+}

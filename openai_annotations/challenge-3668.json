@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3668",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "броя на бонбоните",
+      "приятелите на Иван",
+      "група на 3",
+      "дълбочината на рекурсията",
+      "поканените колко"
+    ],
+    "key_verbs": [
+      "определете",
+      "разделяме",
+      "прилагаме",
+      "изчислен",
+      "изведете"
+    ]
+  }
+}

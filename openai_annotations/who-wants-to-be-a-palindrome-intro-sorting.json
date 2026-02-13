@@ -1,0 +1,22 @@
+{
+  "id": "who-wants-to-be-a-palindrome-intro-sorting",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "последователност",
+      "разместване",
+      "символите",
+      "палиндром",
+      "низове"
+    ],
+    "key_verbs": [
+      "отговорете",
+      "може",
+      "пренареден",
+      "отпечатайте",
+      "съдържат"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "task3score",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "възли",
+      "дърво",
+      "максималният резултат",
+      "премахване на възел",
+      "произведението на броя"
+    ],
+    "key_verbs": [
+      "премахнете",
+      "разберете",
+      "изведете",
+      "оцени",
+      "нарисувате"
+    ]
+  }
+}

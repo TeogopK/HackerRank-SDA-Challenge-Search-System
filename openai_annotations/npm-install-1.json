@@ -1,0 +1,22 @@
+{
+  "id": "npm-install-1",
+  "annotation": {
+    "primary_topic": "stack_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "npm",
+      "packages",
+      "laptop",
+      "requests",
+      "installed package"
+    ],
+    "key_verbs": [
+      "install",
+      "delete",
+      "use",
+      "output",
+      "be"
+    ]
+  }
+}

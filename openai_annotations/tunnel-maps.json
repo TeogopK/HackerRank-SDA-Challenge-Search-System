@@ -1,0 +1,24 @@
+{
+  "id": "tunnel-maps",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "shortest_path"
+    ],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "еднопосочни подземни тунели",
+      "кръстовища",
+      "време",
+      "килограма",
+      "премине"
+    ],
+    "key_verbs": [
+      "планира",
+      "свързани",
+      "премине",
+      "остслабне",
+      "изведете"
+    ]
+  }
+}

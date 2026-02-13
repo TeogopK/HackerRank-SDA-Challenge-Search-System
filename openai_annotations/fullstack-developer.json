@@ -1,0 +1,22 @@
+{
+  "id": "fullstack-developer",
+  "annotation": {
+    "primary_topic": "priority_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "магазин за баници",
+      "поръчки",
+      "време",
+      "изпълнение",
+      "политика"
+    ],
+    "key_verbs": [
+      "обслужва",
+      "завърши",
+      "взимате",
+      "започнете",
+      "изкарайте"
+    ]
+  }
+}

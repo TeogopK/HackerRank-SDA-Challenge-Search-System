@@ -1,0 +1,22 @@
+{
+  "id": "zad2",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "K-ти най-малък елемент",
+      "поток от данни",
+      "положителни числа",
+      "число K",
+      "число x_i"
+    ],
+    "key_verbs": [
+      "прочита",
+      "подават",
+      "изведете",
+      "търсим",
+      "отпечатвате"
+    ]
+  }
+}

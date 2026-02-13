@@ -1,0 +1,24 @@
+{
+  "id": "merge-intervals42",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [
+      "intervals"
+    ],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "N intervals",
+      "merge intervals",
+      "sorted output",
+      "closed intervals",
+      "number line"
+    ],
+    "key_verbs": [
+      "merge",
+      "output",
+      "receive",
+      "sort",
+      "print"
+    ]
+  }
+}

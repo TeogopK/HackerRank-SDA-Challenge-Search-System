@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2805",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "лабиринт",
+      "граф",
+      "цикли",
+      "тестове",
+      "ребра"
+    ],
+    "key_verbs": [
+      "провери",
+      "направил",
+      "представи",
+      "съмнява",
+      "използвайки"
+    ]
+  }
+}

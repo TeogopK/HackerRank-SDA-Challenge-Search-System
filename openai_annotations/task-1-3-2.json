@@ -1,0 +1,22 @@
+{
+  "id": "task-1-3-2",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "три автомобила",
+      "време на тръгване",
+      "време на пристигане",
+      "минималното време",
+      "максималното време"
+    ],
+    "key_verbs": [
+      "намира",
+      "преодолява",
+      "изведе",
+      "да се изведе",
+      "да се въвеждат"
+    ]
+  }
+}

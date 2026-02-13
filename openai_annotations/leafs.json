@@ -1,0 +1,22 @@
+{
+  "id": "leafs",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "acyclic directed graph",
+      "list of edges",
+      "vertex weight",
+      "queries",
+      "sum of weights"
+    ],
+    "key_verbs": [
+      "return",
+      "receive",
+      "output",
+      "calculate",
+      "provide"
+    ]
+  }
+}

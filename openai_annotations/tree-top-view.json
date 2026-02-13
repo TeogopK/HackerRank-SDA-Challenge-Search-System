@@ -1,0 +1,20 @@
+{
+  "id": "tree-top-view",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "traversal",
+    "key_phrases": [
+      "top view",
+      "binary tree",
+      "root",
+      "function",
+      "values"
+    ],
+    "key_verbs": [
+      "print",
+      "complete",
+      "separated"
+    ]
+  }
+}

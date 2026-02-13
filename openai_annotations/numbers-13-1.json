@@ -1,0 +1,22 @@
+{
+  "id": "numbers-13-1",
+  "annotation": {
+    "primary_topic": "stack_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "N цели числа",
+      "индекс j",
+      "индекс i",
+      "първия по-малък елемент",
+      "не повече от k"
+    ],
+    "key_verbs": [
+      "намери",
+      "да",
+      "изведат",
+      "съществува",
+      "удовлетворява"
+    ]
+  }
+}

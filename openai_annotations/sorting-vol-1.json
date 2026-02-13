@@ -1,0 +1,21 @@
+{
+  "id": "sorting-vol-1",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "масив от числа",
+      "възходящ ред",
+      "дължина",
+      "числото n",
+      "сортиран ред"
+    ],
+    "key_verbs": [
+      "сортирайте",
+      "чете",
+      "прочитат",
+      "изведете"
+    ]
+  }
+}

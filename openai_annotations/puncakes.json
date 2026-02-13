@@ -1,0 +1,22 @@
+{
+  "id": "puncakes",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "палачинки",
+      "готвачи",
+      "време",
+      "поръчка",
+      "приготви"
+    ],
+    "key_verbs": [
+      "намери",
+      "отнеме",
+      "въведат",
+      "съответства",
+      "изведете"
+    ]
+  }
+}

@@ -1,0 +1,1217 @@
+[
+  {
+    "slug": "challenge-5930",
+    "true_label": "binary_search_tree",
+    "predicted_label": "binary_search_tree",
+    "correct": true,
+    "scores": {
+      "binary_search_tree": 29.0102,
+      "searching": 11.165,
+      "minimum_spanning_tree": 10.3176,
+      "sorting": 3.7947,
+      "priority_queue": 2.8452,
+      "linked_list": 2.6276,
+      "dynamic_programming": 2.2254,
+      "graph_traversal": 2.0764,
+      "shortest_path": 1.9246,
+      "stack_queue": 0.7976,
+      "hash_table": 0.2317
+    }
+  },
+  {
+    "slug": "closest-apartments",
+    "true_label": "sorting",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 17.7255,
+      "minimum_spanning_tree": 11.816,
+      "shortest_path": 11.1294,
+      "sorting": 11.031,
+      "priority_queue": 8.4887,
+      "binary_search_tree": 4.6316,
+      "dynamic_programming": 4.3308,
+      "hash_table": 3.7241,
+      "stack_queue": 3.09,
+      "linked_list": 2.4045,
+      "graph_traversal": 2.2543
+    }
+  },
+  {
+    "slug": "challenge-2299",
+    "true_label": "graph_traversal",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 13.3886,
+      "graph_traversal": 11.6034,
+      "searching": 7.3918,
+      "priority_queue": 5.4865,
+      "shortest_path": 4.1951,
+      "linked_list": 3.7844,
+      "dynamic_programming": 3.3702,
+      "hash_table": 1.8195,
+      "binary_search_tree": 1.1832,
+      "sorting": 0.8943,
+      "stack_queue": 0.7976
+    }
+  },
+  {
+    "slug": "cinema-2021",
+    "true_label": "dynamic_programming",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 14.406,
+      "graph_traversal": 8.587,
+      "minimum_spanning_tree": 7.8567,
+      "hash_table": 5.48,
+      "shortest_path": 3.4342,
+      "sorting": 2.4622,
+      "priority_queue": 2.3776,
+      "dynamic_programming": 2.0468,
+      "stack_queue": 0.2588,
+      "binary_search_tree": 0.1354
+    }
+  },
+  {
+    "slug": "lekcii",
+    "true_label": "hash_table",
+    "predicted_label": "hash_table",
+    "correct": true,
+    "scores": {
+      "hash_table": 11.1909,
+      "minimum_spanning_tree": 6.4768,
+      "searching": 4.715,
+      "priority_queue": 4.4851,
+      "linked_list": 3.6293,
+      "sorting": 2.3122,
+      "dynamic_programming": 1.688,
+      "stack_queue": 1.4813,
+      "shortest_path": 0.6234,
+      "binary_search_tree": 0.4102
+    }
+  },
+  {
+    "slug": "test234",
+    "true_label": "minimum_spanning_tree",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": true,
+    "scores": {
+      "minimum_spanning_tree": 18.0137,
+      "graph_traversal": 12.6146,
+      "searching": 8.4089,
+      "shortest_path": 7.6118,
+      "binary_search_tree": 7.3725,
+      "stack_queue": 3.0658,
+      "linked_list": 2.2827,
+      "priority_queue": 1.0797,
+      "hash_table": 0.9432,
+      "dynamic_programming": 0.8688,
+      "sorting": 0.4414
+    }
+  },
+  {
+    "slug": "task1-6-3",
+    "true_label": "shortest_path",
+    "predicted_label": "shortest_path",
+    "correct": true,
+    "scores": {
+      "shortest_path": 31.9062,
+      "minimum_spanning_tree": 13.6713,
+      "priority_queue": 11.6674,
+      "searching": 9.5798,
+      "graph_traversal": 4.253,
+      "sorting": 4.2472,
+      "linked_list": 3.6932,
+      "binary_search_tree": 2.9219,
+      "stack_queue": 2.4322,
+      "dynamic_programming": 2.0468,
+      "hash_table": 0.7477
+    }
+  },
+  {
+    "slug": "breakout",
+    "true_label": "graph_traversal",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 9.4415,
+      "sorting": 7.546,
+      "dynamic_programming": 6.9578,
+      "graph_traversal": 6.9037,
+      "binary_search_tree": 6.7489,
+      "shortest_path": 5.7735,
+      "minimum_spanning_tree": 3.6409,
+      "linked_list": 3.3659,
+      "hash_table": 2.279,
+      "priority_queue": 1.4471,
+      "stack_queue": 0.0104
+    }
+  },
+  {
+    "slug": "unique-rows",
+    "true_label": "hash_table",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 17.7479,
+      "minimum_spanning_tree": 9.0627,
+      "sorting": 5.1568,
+      "linked_list": 4.6509,
+      "dynamic_programming": 3.6087,
+      "hash_table": 2.8353,
+      "shortest_path": 2.1871,
+      "graph_traversal": 1.718,
+      "priority_queue": 1.4585,
+      "binary_search_tree": 0.5456,
+      "stack_queue": 0.5387
+    }
+  },
+  {
+    "slug": "substring-frequency-1",
+    "true_label": "searching",
+    "predicted_label": "searching",
+    "correct": true,
+    "scores": {
+      "searching": 7.6747,
+      "sorting": 4.5964,
+      "linked_list": 3.8241,
+      "hash_table": 3.493,
+      "minimum_spanning_tree": 2.2263,
+      "dynamic_programming": 1.7376,
+      "priority_queue": 1.2162,
+      "stack_queue": 0.7761,
+      "shortest_path": 0.4012
+    }
+  },
+  {
+    "slug": "challenge-3729",
+    "true_label": "linked_list",
+    "predicted_label": "linked_list",
+    "correct": true,
+    "scores": {
+      "linked_list": 56.1581,
+      "sorting": 6.8492,
+      "searching": 4.5599,
+      "priority_queue": 3.4861,
+      "binary_search_tree": 3.1602,
+      "hash_table": 2.3985,
+      "dynamic_programming": 2.3719,
+      "graph_traversal": 1.7619,
+      "minimum_spanning_tree": 1.753,
+      "shortest_path": 1.6144,
+      "stack_queue": 1.3148
+    }
+  },
+  {
+    "slug": "challenge-2805",
+    "true_label": "graph_traversal",
+    "predicted_label": "graph_traversal",
+    "correct": true,
+    "scores": {
+      "graph_traversal": 16.0577,
+      "minimum_spanning_tree": 10.8784,
+      "priority_queue": 8.0785,
+      "searching": 7.0754,
+      "binary_search_tree": 4.8446,
+      "shortest_path": 4.6682,
+      "sorting": 4.1257,
+      "linked_list": 2.6276,
+      "dynamic_programming": 1.9756,
+      "hash_table": 1.1149,
+      "stack_queue": 0.6589
+    }
+  },
+  {
+    "slug": "1-266",
+    "true_label": "binary_search_tree",
+    "predicted_label": "binary_search_tree",
+    "correct": true,
+    "scores": {
+      "binary_search_tree": 32.2675,
+      "searching": 12.7044,
+      "graph_traversal": 5.9915,
+      "shortest_path": 4.1744,
+      "linked_list": 4.0075,
+      "minimum_spanning_tree": 3.7375,
+      "priority_queue": 2.2691,
+      "dynamic_programming": 2.056,
+      "sorting": 1.4399,
+      "hash_table": 1.0132,
+      "stack_queue": 0.5491
+    }
+  },
+  {
+    "slug": "2-61",
+    "true_label": "shortest_path",
+    "predicted_label": "hash_table",
+    "correct": false,
+    "scores": {
+      "hash_table": 11.0986,
+      "shortest_path": 8.4872,
+      "minimum_spanning_tree": 7.1498,
+      "graph_traversal": 6.7928,
+      "sorting": 5.912,
+      "priority_queue": 4.1118,
+      "stack_queue": 3.2829,
+      "dynamic_programming": 2.439,
+      "searching": 1.8399,
+      "binary_search_tree": 1.1052,
+      "linked_list": 0.4866
+    }
+  },
+  {
+    "slug": "challenge-2711",
+    "true_label": "graph_traversal",
+    "predicted_label": "dynamic_programming",
+    "correct": false,
+    "scores": {
+      "dynamic_programming": 7.4015,
+      "searching": 7.0313,
+      "graph_traversal": 6.0613,
+      "minimum_spanning_tree": 4.7754,
+      "shortest_path": 4.7475,
+      "stack_queue": 4.2245,
+      "priority_queue": 3.5523,
+      "sorting": 2.83,
+      "linked_list": 2.6276,
+      "binary_search_tree": 1.5638,
+      "hash_table": 1.5391
+    }
+  },
+  {
+    "slug": "christmas-wishlists",
+    "true_label": "dynamic_programming",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 9.0675,
+      "sorting": 8.116,
+      "hash_table": 6.9098,
+      "linked_list": 6.6668,
+      "dynamic_programming": 6.5426,
+      "priority_queue": 6.117,
+      "minimum_spanning_tree": 5.9989,
+      "binary_search_tree": 4.6016,
+      "stack_queue": 3.2436,
+      "graph_traversal": 0.7115,
+      "shortest_path": 0.4012
+    }
+  },
+  {
+    "slug": "challenge-3754",
+    "true_label": "dynamic_programming",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 9.8835,
+      "hash_table": 9.2402,
+      "dynamic_programming": 7.4846,
+      "priority_queue": 5.6159,
+      "binary_search_tree": 5.2091,
+      "linked_list": 5.0907,
+      "sorting": 4.2048,
+      "stack_queue": 3.9545,
+      "minimum_spanning_tree": 3.5822,
+      "shortest_path": 2.0663,
+      "graph_traversal": 1.6014
+    }
+  },
+  {
+    "slug": "arrays-interview-problem",
+    "true_label": "sorting",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 20.4891,
+      "sorting": 11.8832,
+      "dynamic_programming": 8.7267,
+      "linked_list": 6.5958,
+      "minimum_spanning_tree": 5.2739,
+      "priority_queue": 4.7392,
+      "hash_table": 4.3388,
+      "graph_traversal": 0.8758,
+      "stack_queue": 0.5635,
+      "shortest_path": 0.4012
+    }
+  },
+  {
+    "slug": "components-mst-k",
+    "true_label": "minimum_spanning_tree",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": true,
+    "scores": {
+      "minimum_spanning_tree": 16.3582,
+      "searching": 13.0683,
+      "graph_traversal": 10.0495,
+      "binary_search_tree": 7.297,
+      "shortest_path": 7.1432,
+      "priority_queue": 3.8468,
+      "linked_list": 3.6354,
+      "stack_queue": 2.8768,
+      "hash_table": 2.3564,
+      "dynamic_programming": 1.7621,
+      "sorting": 0.7526
+    }
+  },
+  {
+    "slug": "challenge-1648",
+    "true_label": "stack_queue",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 11.3417,
+      "hash_table": 8.5867,
+      "priority_queue": 8.4193,
+      "linked_list": 7.4815,
+      "sorting": 6.6215,
+      "stack_queue": 4.3074,
+      "graph_traversal": 3.0221,
+      "dynamic_programming": 2.2158,
+      "shortest_path": 2.1871,
+      "minimum_spanning_tree": 2.164,
+      "binary_search_tree": 1.4697
+    }
+  },
+  {
+    "slug": "sorting-vol-3",
+    "true_label": "sorting",
+    "predicted_label": "sorting",
+    "correct": true,
+    "scores": {
+      "sorting": 27.9364,
+      "searching": 27.9306,
+      "linked_list": 7.3073,
+      "dynamic_programming": 4.6,
+      "minimum_spanning_tree": 4.463,
+      "hash_table": 1.3738,
+      "priority_queue": 0.8941,
+      "shortest_path": 0.4012
+    }
+  },
+  {
+    "slug": "logging-monitoring-alerting",
+    "true_label": "sorting",
+    "predicted_label": "sorting",
+    "correct": true,
+    "scores": {
+      "sorting": 9.4826,
+      "searching": 7.9816,
+      "minimum_spanning_tree": 7.7197,
+      "linked_list": 6.4561,
+      "hash_table": 2.5894,
+      "dynamic_programming": 2.4523,
+      "priority_queue": 1.9836,
+      "stack_queue": 1.6338,
+      "graph_traversal": 0.5335,
+      "shortest_path": 0.4012
+    }
+  },
+  {
+    "slug": "1-257",
+    "true_label": "hash_table",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 14.6894,
+      "sorting": 12.3846,
+      "stack_queue": 8.3424,
+      "priority_queue": 7.6689,
+      "linked_list": 7.0722,
+      "minimum_spanning_tree": 7.024,
+      "hash_table": 5.1361,
+      "dynamic_programming": 2.0468,
+      "graph_traversal": 1.3197,
+      "binary_search_tree": 0.695,
+      "shortest_path": 0.0479
+    }
+  },
+  {
+    "slug": "challenge-3112",
+    "true_label": "linked_list",
+    "predicted_label": "linked_list",
+    "correct": true,
+    "scores": {
+      "linked_list": 44.5868,
+      "searching": 4.7328,
+      "priority_queue": 4.1406,
+      "sorting": 2.7842,
+      "minimum_spanning_tree": 2.6735,
+      "binary_search_tree": 2.5177,
+      "graph_traversal": 1.7619,
+      "hash_table": 1.0795,
+      "dynamic_programming": 0.8688,
+      "shortest_path": 0.1667
+    }
+  },
+  {
+    "slug": "challenge-4607",
+    "true_label": "binary_search_tree",
+    "predicted_label": "binary_search_tree",
+    "correct": true,
+    "scores": {
+      "binary_search_tree": 41.1617,
+      "searching": 12.879,
+      "minimum_spanning_tree": 9.7462,
+      "priority_queue": 8.4858,
+      "graph_traversal": 4.9892,
+      "linked_list": 4.904,
+      "dynamic_programming": 1.688,
+      "shortest_path": 1.5304,
+      "stack_queue": 1.4678,
+      "hash_table": 1.3497,
+      "sorting": 1.026
+    }
+  },
+  {
+    "slug": "challenge-6029",
+    "true_label": "shortest_path",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 15.7217,
+      "shortest_path": 10.4681,
+      "searching": 9.5391,
+      "priority_queue": 7.7705,
+      "graph_traversal": 4.5875,
+      "dynamic_programming": 2.7614,
+      "linked_list": 2.6276,
+      "sorting": 2.0121,
+      "stack_queue": 1.7267,
+      "binary_search_tree": 1.1052,
+      "hash_table": 0.2317
+    }
+  },
+  {
+    "slug": "bonus-polygon-perimeter",
+    "true_label": "tree",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 11.9958,
+      "sorting": 5.781,
+      "minimum_spanning_tree": 5.2652,
+      "linked_list": 5.1015,
+      "shortest_path": 2.5072,
+      "binary_search_tree": 2.4006,
+      "dynamic_programming": 2.2009,
+      "graph_traversal": 1.8305,
+      "hash_table": 1.763,
+      "priority_queue": 1.4471
+    }
+  },
+  {
+    "slug": "cows-sda",
+    "true_label": "dynamic_programming",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 16.2114,
+      "searching": 14.7168,
+      "hash_table": 6.7777,
+      "priority_queue": 6.1406,
+      "shortest_path": 3.921,
+      "sorting": 3.7422,
+      "dynamic_programming": 2.1513,
+      "graph_traversal": 1.1029,
+      "binary_search_tree": 0.695,
+      "stack_queue": 0.1261
+    }
+  },
+  {
+    "slug": "validate-bst-2",
+    "true_label": "binary_search_tree",
+    "predicted_label": "binary_search_tree",
+    "correct": true,
+    "scores": {
+      "binary_search_tree": 38.0349,
+      "searching": 12.3913,
+      "hash_table": 8.6114,
+      "linked_list": 6.09,
+      "graph_traversal": 5.7462,
+      "minimum_spanning_tree": 5.3063,
+      "sorting": 5.0955,
+      "shortest_path": 5.0227,
+      "priority_queue": 4.885,
+      "stack_queue": 1.7629,
+      "dynamic_programming": 1.3321
+    }
+  },
+  {
+    "slug": "who-wants-to-be-a-palindrome-intro-sorting",
+    "true_label": "sorting",
+    "predicted_label": "sorting",
+    "correct": true,
+    "scores": {
+      "sorting": 7.2782,
+      "linked_list": 5.284,
+      "hash_table": 4.685,
+      "searching": 3.1754,
+      "minimum_spanning_tree": 2.4106,
+      "dynamic_programming": 2.2981,
+      "graph_traversal": 0.7676,
+      "stack_queue": 0.4478,
+      "priority_queue": 0.3571
+    }
+  },
+  {
+    "slug": "challenge-4497",
+    "true_label": "hash_table",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 11.4551,
+      "hash_table": 7.27,
+      "stack_queue": 6.19,
+      "sorting": 5.3808,
+      "priority_queue": 5.006,
+      "graph_traversal": 3.661,
+      "linked_list": 3.1429,
+      "dynamic_programming": 2.3833,
+      "binary_search_tree": 2.0549,
+      "minimum_spanning_tree": 1.6926,
+      "shortest_path": 1.1415
+    }
+  },
+  {
+    "slug": "challenge-2763",
+    "true_label": "graph_traversal",
+    "predicted_label": "graph_traversal",
+    "correct": true,
+    "scores": {
+      "graph_traversal": 18.0182,
+      "minimum_spanning_tree": 15.0338,
+      "priority_queue": 10.9896,
+      "shortest_path": 10.7572,
+      "searching": 9.9436,
+      "binary_search_tree": 7.7795,
+      "linked_list": 5.621,
+      "hash_table": 5.5731,
+      "sorting": 3.7451,
+      "dynamic_programming": 2.0832,
+      "stack_queue": 1.2849
+    }
+  },
+  {
+    "slug": "challenge-2231",
+    "true_label": "stack_queue",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 15.7907,
+      "sorting": 11.854,
+      "priority_queue": 7.4668,
+      "shortest_path": 7.0314,
+      "minimum_spanning_tree": 6.2614,
+      "stack_queue": 6.0913,
+      "hash_table": 5.9038,
+      "linked_list": 3.5754,
+      "dynamic_programming": 3.5125,
+      "graph_traversal": 0.9347,
+      "binary_search_tree": 0.5456
+    }
+  },
+  {
+    "slug": "walking-median-sorting",
+    "true_label": "sorting",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 19.3903,
+      "sorting": 14.8295,
+      "linked_list": 7.828,
+      "priority_queue": 7.5575,
+      "minimum_spanning_tree": 6.4502,
+      "dynamic_programming": 4.7287,
+      "binary_search_tree": 3.4437,
+      "hash_table": 2.7233,
+      "stack_queue": 1.6357,
+      "graph_traversal": 1.5428,
+      "shortest_path": 1.2603
+    }
+  },
+  {
+    "slug": "challenge-4506",
+    "true_label": "graph_traversal",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 10.9682,
+      "minimum_spanning_tree": 8.8917,
+      "graph_traversal": 8.2362,
+      "sorting": 8.096,
+      "shortest_path": 4.1638,
+      "stack_queue": 3.8666,
+      "priority_queue": 2.9471,
+      "dynamic_programming": 1.3321,
+      "binary_search_tree": 1.1052,
+      "linked_list": 0.4866,
+      "hash_table": 0.4446
+    }
+  },
+  {
+    "slug": "volleyball-friends",
+    "true_label": "graph_traversal",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 16.0374,
+      "sorting": 9.6604,
+      "minimum_spanning_tree": 7.7963,
+      "linked_list": 6.5164,
+      "priority_queue": 4.3959,
+      "binary_search_tree": 3.8013,
+      "graph_traversal": 2.749,
+      "dynamic_programming": 2.2009,
+      "stack_queue": 1.7042,
+      "hash_table": 1.6456,
+      "shortest_path": 0.2701
+    }
+  },
+  {
+    "slug": "challenge-2274",
+    "true_label": "graph_traversal",
+    "predicted_label": "priority_queue",
+    "correct": false,
+    "scores": {
+      "priority_queue": 14.8554,
+      "searching": 8.6652,
+      "linked_list": 4.5461,
+      "graph_traversal": 4.2921,
+      "hash_table": 3.471,
+      "shortest_path": 2.7051,
+      "stack_queue": 2.4102,
+      "minimum_spanning_tree": 2.2494,
+      "binary_search_tree": 1.6415,
+      "dynamic_programming": 1.5835,
+      "sorting": 0.8943
+    }
+  },
+  {
+    "slug": "--164",
+    "true_label": "searching",
+    "predicted_label": "sorting",
+    "correct": false,
+    "scores": {
+      "sorting": 9.6383,
+      "searching": 7.9497,
+      "minimum_spanning_tree": 2.7586,
+      "shortest_path": 2.019,
+      "linked_list": 1.683,
+      "hash_table": 1.4985,
+      "dynamic_programming": 1.3321,
+      "priority_queue": 1.0516,
+      "stack_queue": 0.8963
+    }
+  },
+  {
+    "slug": "challenge-3669",
+    "true_label": "hash_table",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 10.3674,
+      "searching": 9.5326,
+      "linked_list": 4.059,
+      "shortest_path": 3.8835,
+      "priority_queue": 2.8452,
+      "sorting": 2.1926,
+      "dynamic_programming": 1.3321,
+      "hash_table": 1.0655,
+      "graph_traversal": 0.5837,
+      "stack_queue": 0.2692
+    }
+  },
+  {
+    "slug": "traffic-light-groups",
+    "true_label": "dynamic_programming",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 8.2252,
+      "stack_queue": 7.6865,
+      "searching": 6.0269,
+      "sorting": 4.9732,
+      "priority_queue": 4.0205,
+      "dynamic_programming": 3.7592,
+      "linked_list": 3.512,
+      "binary_search_tree": 2.5829,
+      "hash_table": 0.267,
+      "shortest_path": 0.2222
+    }
+  },
+  {
+    "slug": "left-right-2",
+    "true_label": "binary_search_tree",
+    "predicted_label": "binary_search_tree",
+    "correct": true,
+    "scores": {
+      "binary_search_tree": 24.337,
+      "linked_list": 8.5078,
+      "searching": 7.1673,
+      "sorting": 3.6879,
+      "priority_queue": 3.3493,
+      "minimum_spanning_tree": 2.9301,
+      "graph_traversal": 2.7915,
+      "hash_table": 2.2648,
+      "shortest_path": 1.351,
+      "dynamic_programming": 1.3321,
+      "stack_queue": 1.0677
+    }
+  },
+  {
+    "slug": "challenge-2794",
+    "true_label": "shortest_path",
+    "predicted_label": "shortest_path",
+    "correct": true,
+    "scores": {
+      "shortest_path": 74.1066,
+      "minimum_spanning_tree": 21.3864,
+      "searching": 13.8066,
+      "graph_traversal": 8.575,
+      "hash_table": 8.5457,
+      "binary_search_tree": 4.0727,
+      "priority_queue": 3.0039,
+      "sorting": 1.7009,
+      "dynamic_programming": 1.3321,
+      "stack_queue": 0.1202
+    }
+  },
+  {
+    "slug": "fullstack-developer",
+    "true_label": "priority_queue",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 7.4656,
+      "sorting": 6.7988,
+      "minimum_spanning_tree": 6.0588,
+      "priority_queue": 5.2345,
+      "dynamic_programming": 4.9388,
+      "linked_list": 3.7189,
+      "stack_queue": 2.2219,
+      "shortest_path": 2.019,
+      "hash_table": 1.7655,
+      "graph_traversal": 0.5192
+    }
+  },
+  {
+    "slug": "weird-array-1",
+    "true_label": "searching",
+    "predicted_label": "searching",
+    "correct": true,
+    "scores": {
+      "searching": 41.5259,
+      "sorting": 8.6242,
+      "priority_queue": 8.4982,
+      "linked_list": 6.6062,
+      "minimum_spanning_tree": 4.7717,
+      "dynamic_programming": 3.9667,
+      "shortest_path": 3.4991,
+      "hash_table": 2.5158,
+      "stack_queue": 1.8783,
+      "graph_traversal": 0.5183,
+      "binary_search_tree": 0.2291
+    }
+  },
+  {
+    "slug": "challenge-2727",
+    "true_label": "priority_queue",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 11.8128,
+      "searching": 9.4588,
+      "linked_list": 8.0179,
+      "priority_queue": 6.8811,
+      "hash_table": 6.236,
+      "dynamic_programming": 5.9972,
+      "sorting": 4.8254,
+      "shortest_path": 4.8088,
+      "graph_traversal": 1.6022,
+      "stack_queue": 1.2328,
+      "binary_search_tree": 0.4102
+    }
+  },
+  {
+    "slug": "task-3-1-2",
+    "true_label": "dynamic_programming",
+    "predicted_label": "sorting",
+    "correct": false,
+    "scores": {
+      "sorting": 15.2426,
+      "dynamic_programming": 9.2828,
+      "hash_table": 5.7215,
+      "searching": 5.5838,
+      "priority_queue": 4.9033,
+      "graph_traversal": 2.838,
+      "minimum_spanning_tree": 2.5768,
+      "stack_queue": 2.3055,
+      "shortest_path": 1.372,
+      "binary_search_tree": 0.8303
+    }
+  },
+  {
+    "slug": "-8",
+    "true_label": "hash_table",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 10.0817,
+      "hash_table": 6.2471,
+      "minimum_spanning_tree": 6.104,
+      "sorting": 5.8225,
+      "shortest_path": 5.0828,
+      "priority_queue": 3.9748,
+      "linked_list": 3.3659,
+      "dynamic_programming": 2.8353,
+      "stack_queue": 1.1165
+    }
+  },
+  {
+    "slug": "trucks",
+    "true_label": "stack_queue",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 13.6596,
+      "searching": 9.8885,
+      "linked_list": 3.3989,
+      "priority_queue": 3.2356,
+      "shortest_path": 1.8149,
+      "dynamic_programming": 1.6273,
+      "stack_queue": 1.2454,
+      "sorting": 0.7526,
+      "graph_traversal": 0.4994,
+      "hash_table": 0.4987,
+      "binary_search_tree": 0.4102
+    }
+  },
+  {
+    "slug": "queries-5",
+    "true_label": "dynamic_programming",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 37.5036,
+      "priority_queue": 14.7272,
+      "minimum_spanning_tree": 10.126,
+      "stack_queue": 9.0587,
+      "sorting": 8.1406,
+      "linked_list": 5.9277,
+      "dynamic_programming": 3.2024,
+      "hash_table": 2.7686,
+      "shortest_path": 2.4055,
+      "graph_traversal": 2.3563,
+      "binary_search_tree": 0.4583
+    }
+  },
+  {
+    "slug": "challenge-2851",
+    "true_label": "sorting",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 8.5222,
+      "sorting": 7.0717,
+      "dynamic_programming": 6.8665,
+      "minimum_spanning_tree": 4.6732,
+      "linked_list": 4.1644,
+      "priority_queue": 2.1103
+    }
+  },
+  {
+    "slug": "challenge-2774",
+    "true_label": "graph_traversal",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 28.0673,
+      "searching": 12.9826,
+      "graph_traversal": 12.9478,
+      "priority_queue": 10.728,
+      "sorting": 10.3697,
+      "shortest_path": 10.0694,
+      "binary_search_tree": 7.248,
+      "dynamic_programming": 5.1863,
+      "linked_list": 3.961,
+      "hash_table": 3.737,
+      "stack_queue": 2.7157
+    }
+  },
+  {
+    "slug": "bibibi",
+    "true_label": "sorting",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 39.3406,
+      "priority_queue": 18.8644,
+      "sorting": 8.7867,
+      "linked_list": 7.6633,
+      "hash_table": 5.4085,
+      "shortest_path": 5.2224,
+      "dynamic_programming": 3.9667,
+      "minimum_spanning_tree": 3.7078,
+      "binary_search_tree": 2.178,
+      "stack_queue": 1.9402,
+      "graph_traversal": 1.0366
+    }
+  },
+  {
+    "slug": "-sorting",
+    "true_label": "sorting",
+    "predicted_label": "sorting",
+    "correct": true,
+    "scores": {
+      "sorting": 8.8772,
+      "shortest_path": 8.5337,
+      "searching": 7.1905,
+      "graph_traversal": 4.2908,
+      "hash_table": 4.2875,
+      "priority_queue": 4.1893,
+      "linked_list": 3.2381,
+      "minimum_spanning_tree": 2.6703,
+      "dynamic_programming": 2.0468,
+      "binary_search_tree": 1.8467,
+      "stack_queue": 1.1321
+    }
+  },
+  {
+    "slug": "0-1-1",
+    "true_label": "dynamic_programming",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 12.2032,
+      "minimum_spanning_tree": 6.1313,
+      "linked_list": 4.7457,
+      "dynamic_programming": 4.6493,
+      "priority_queue": 4.0,
+      "sorting": 3.0703,
+      "shortest_path": 3.0169,
+      "hash_table": 1.7661,
+      "binary_search_tree": 0.7729,
+      "stack_queue": 0.1202
+    }
+  },
+  {
+    "slug": "highways",
+    "true_label": "dynamic_programming",
+    "predicted_label": "sorting",
+    "correct": false,
+    "scores": {
+      "sorting": 13.1329,
+      "minimum_spanning_tree": 11.0674,
+      "searching": 10.0791,
+      "priority_queue": 5.8481,
+      "linked_list": 5.2838,
+      "hash_table": 3.4017,
+      "stack_queue": 3.2359,
+      "dynamic_programming": 2.5568,
+      "graph_traversal": 1.6022,
+      "shortest_path": 1.2553
+    }
+  },
+  {
+    "slug": "traversal-level-order",
+    "true_label": "binary_search_tree",
+    "predicted_label": "binary_search_tree",
+    "correct": true,
+    "scores": {
+      "binary_search_tree": 25.0512,
+      "searching": 13.9588,
+      "sorting": 7.8951,
+      "linked_list": 7.1248,
+      "minimum_spanning_tree": 5.2438,
+      "dynamic_programming": 3.9667,
+      "stack_queue": 2.3303,
+      "priority_queue": 1.9894,
+      "hash_table": 1.5867,
+      "shortest_path": 1.0936
+    }
+  },
+  {
+    "slug": "balloons-and-candy",
+    "true_label": "dynamic_programming",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 22.0262,
+      "searching": 12.191,
+      "priority_queue": 5.0302,
+      "sorting": 3.5716,
+      "linked_list": 3.3659,
+      "graph_traversal": 3.0856,
+      "shortest_path": 2.0997,
+      "hash_table": 1.6408,
+      "dynamic_programming": 1.3321,
+      "stack_queue": 0.8268
+    }
+  },
+  {
+    "slug": "subarray123",
+    "true_label": "sorting",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 19.024,
+      "linked_list": 7.8999,
+      "minimum_spanning_tree": 7.8843,
+      "sorting": 5.7114,
+      "dynamic_programming": 4.0224,
+      "priority_queue": 3.5402,
+      "shortest_path": 2.3011,
+      "graph_traversal": 1.5428,
+      "hash_table": 1.48,
+      "binary_search_tree": 1.1004,
+      "stack_queue": 0.2359
+    }
+  },
+  {
+    "slug": "bridge-battle-1",
+    "true_label": "stack_queue",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 14.2024,
+      "minimum_spanning_tree": 8.1608,
+      "linked_list": 6.3593,
+      "dynamic_programming": 6.2458,
+      "sorting": 4.4835,
+      "graph_traversal": 2.9603,
+      "priority_queue": 2.4437,
+      "binary_search_tree": 1.536,
+      "hash_table": 1.3738,
+      "stack_queue": 0.5387,
+      "shortest_path": 0.4012
+    }
+  },
+  {
+    "slug": "challenge-1761",
+    "true_label": "graph_traversal",
+    "predicted_label": "graph_traversal",
+    "correct": true,
+    "scores": {
+      "graph_traversal": 14.4137,
+      "minimum_spanning_tree": 10.7269,
+      "searching": 7.23,
+      "priority_queue": 4.5866,
+      "binary_search_tree": 3.9142,
+      "sorting": 2.819,
+      "shortest_path": 1.5234,
+      "dynamic_programming": 1.3321,
+      "linked_list": 1.2248,
+      "hash_table": 1.1421,
+      "stack_queue": 0.952
+    }
+  },
+  {
+    "slug": "challenge-2799",
+    "true_label": "shortest_path",
+    "predicted_label": "minimum_spanning_tree",
+    "correct": false,
+    "scores": {
+      "minimum_spanning_tree": 13.7362,
+      "shortest_path": 9.8031,
+      "searching": 9.5547,
+      "sorting": 8.5716,
+      "priority_queue": 5.8513,
+      "graph_traversal": 5.5727,
+      "binary_search_tree": 4.1185,
+      "linked_list": 3.2381,
+      "dynamic_programming": 3.0446,
+      "hash_table": 2.8291,
+      "stack_queue": 1.5171
+    }
+  },
+  {
+    "slug": "challenge-3066",
+    "true_label": "dynamic_programming",
+    "predicted_label": "sorting",
+    "correct": false,
+    "scores": {
+      "sorting": 10.3837,
+      "linked_list": 6.5454,
+      "priority_queue": 5.2157,
+      "searching": 4.8943,
+      "binary_search_tree": 4.3662,
+      "shortest_path": 2.2022,
+      "hash_table": 1.4985,
+      "dynamic_programming": 0.8688,
+      "stack_queue": 0.7761,
+      "minimum_spanning_tree": 0.5712
+    }
+  },
+  {
+    "slug": "challenge-3648",
+    "true_label": "dynamic_programming",
+    "predicted_label": "sorting",
+    "correct": false,
+    "scores": {
+      "sorting": 9.9629,
+      "linked_list": 7.4776,
+      "priority_queue": 7.1648,
+      "minimum_spanning_tree": 6.4905,
+      "searching": 5.2292,
+      "dynamic_programming": 4.7552,
+      "hash_table": 2.9719,
+      "graph_traversal": 2.1265,
+      "shortest_path": 1.3032,
+      "stack_queue": 1.1655,
+      "binary_search_tree": 0.695
+    }
+  },
+  {
+    "slug": "-6-3",
+    "true_label": "dynamic_programming",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 20.3966,
+      "sorting": 7.2226,
+      "minimum_spanning_tree": 7.207,
+      "linked_list": 7.1248,
+      "priority_queue": 4.2535,
+      "dynamic_programming": 3.7049,
+      "shortest_path": 3.4365,
+      "hash_table": 2.9129,
+      "binary_search_tree": 0.4586
+    }
+  },
+  {
+    "slug": "challenge-1635",
+    "true_label": "sorting",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 14.4453,
+      "sorting": 12.6487,
+      "dynamic_programming": 6.1638,
+      "linked_list": 5.5353,
+      "binary_search_tree": 3.8765,
+      "graph_traversal": 2.7551,
+      "priority_queue": 2.3493,
+      "minimum_spanning_tree": 2.2342
+    }
+  },
+  {
+    "slug": "zoros-mask",
+    "true_label": "hash_table",
+    "predicted_label": "searching",
+    "correct": false,
+    "scores": {
+      "searching": 17.6468,
+      "minimum_spanning_tree": 6.173,
+      "linked_list": 5.5069,
+      "sorting": 5.3308,
+      "shortest_path": 1.8775,
+      "graph_traversal": 1.718,
+      "priority_queue": 1.4711,
+      "hash_table": 1.3738,
+      "dynamic_programming": 1.3321,
+      "binary_search_tree": 1.1258
+    }
+  }
+]

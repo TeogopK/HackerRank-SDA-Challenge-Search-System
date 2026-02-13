@@ -1,0 +1,22 @@
+{
+  "id": "challenge-4442",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "N елемента",
+      "медианата на масива",
+      "четен брой елементи",
+      "нечетен брой елементи",
+      "принтирани медианите"
+    ],
+    "key_verbs": [
+      "добавят",
+      "принтирате",
+      "съдържа",
+      "въведжат",
+      "надвишават"
+    ]
+  }
+}

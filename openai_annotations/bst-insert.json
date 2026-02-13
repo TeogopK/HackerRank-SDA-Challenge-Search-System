@@ -1,0 +1,22 @@
+{
+  "id": "bst-insert",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "двоично дърво",
+      "инструкции",
+      "добавяне на елемент",
+      "inorder обхождане",
+      "числото X"
+    ],
+    "key_verbs": [
+      "реализирайте",
+      "добавяне",
+      "обхождане",
+      "извеждане",
+      "правим"
+    ]
+  }
+}

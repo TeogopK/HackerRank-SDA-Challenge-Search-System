@@ -1,0 +1,24 @@
+{
+  "id": "challenge-2817",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "shortest_path"
+    ],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "directed graph",
+      "cities",
+      "edges",
+      "superstitious numbers",
+      "routes"
+    ],
+    "key_verbs": [
+      "help",
+      "travel",
+      "check",
+      "evaluate",
+      "output"
+    ]
+  }
+}

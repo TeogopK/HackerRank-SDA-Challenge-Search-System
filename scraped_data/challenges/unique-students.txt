@@ -1,0 +1,24 @@
+Challenge: Уникални студенти
+Slug: unique-students
+Difficulty: Medium
+Max Score: 10
+Success Ratio: 0.9390243902439024
+Solved: 154/164
+
+======================================================================
+
+PROBLEM STATEMENT:
+Намерете уникалните числа сред дадените.
+
+Забранено е използването на set, unordered_set, unordered_multiset, map, unordered_map, unordered_multimap!
+
+INPUT FORMAT:
+На единствения ред е дадено число N и още N числа ai.
+
+CONSTRAINTS:
+1 <= N <= 200 000
+LLONG_MIN <= ai <= LLONG_MAX
+
+OUTPUT FORMAT:
+На единствения ред от изхода изпишете броя на уникалните елементи сред дадените.
+

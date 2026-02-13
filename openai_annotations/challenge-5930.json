@@ -1,0 +1,22 @@
+{
+  "id": "challenge-5930",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "броя на листата",
+      "дълбочина на дървото",
+      "родителят",
+      "наследник",
+      "възлите"
+    ],
+    "key_verbs": [
+      "намерете",
+      "изведете",
+      "има",
+      "съдържа",
+      "да"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "challenge-1636",
+  "annotation": {
+    "primary_topic": "searching",
+    "secondary_topics": [
+      "sorting"
+    ],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "индекс на търсено число",
+      "масив",
+      "броят на двоичните разделяния",
+      "сортиран масив",
+      "заявките за търсене"
+    ],
+    "key_verbs": [
+      "намиране",
+      "върне",
+      "разделяне",
+      "търсим",
+      "броим"
+    ]
+  }
+}

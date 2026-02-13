@@ -1,0 +1,22 @@
+{
+  "id": "playjewel",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "скъпоценни камъка",
+      "стойност Vi",
+      "тегло Wi",
+      "K диаманта",
+      "максимално S_K(V)"
+    ],
+    "key_verbs": [
+      "продаде",
+      "вземе",
+      "максимално",
+      "намерено",
+      "изведете"
+    ]
+  }
+}

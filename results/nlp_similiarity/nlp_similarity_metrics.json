@@ -1,0 +1,66 @@
+{
+  "P@1": 0.511,
+  "P@3": 0.441,
+  "P@5": 0.423,
+  "MRR": 0.614,
+  "MAP@5": 0.587,
+  "total_queries": 329,
+  "per_topic": {
+    "binary_search_tree": {
+      "count": 38,
+      "P@1": 0.842
+    },
+    "dynamic_programming": {
+      "count": 68,
+      "P@1": 0.368
+    },
+    "eulerian_hamiltonian": {
+      "count": 1,
+      "P@1": 0.0
+    },
+    "graph_traversal": {
+      "count": 52,
+      "P@1": 0.673
+    },
+    "hash_table": {
+      "count": 32,
+      "P@1": 0.219
+    },
+    "linked_list": {
+      "count": 25,
+      "P@1": 0.84
+    },
+    "minimum_spanning_tree": {
+      "count": 8,
+      "P@1": 0.25
+    },
+    "priority_queue": {
+      "count": 8,
+      "P@1": 0.25
+    },
+    "searching": {
+      "count": 8,
+      "P@1": 0.25
+    },
+    "shortest_path": {
+      "count": 20,
+      "P@1": 0.6
+    },
+    "sorting": {
+      "count": 44,
+      "P@1": 0.5
+    },
+    "stack_queue": {
+      "count": 23,
+      "P@1": 0.348
+    },
+    "string": {
+      "count": 1,
+      "P@1": 0.0
+    },
+    "tree": {
+      "count": 1,
+      "P@1": 0.0
+    }
+  }
+}

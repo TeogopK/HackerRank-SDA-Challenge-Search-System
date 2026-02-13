@@ -1,0 +1,22 @@
+{
+  "id": "task2sum",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "път",
+      "възел",
+      "максимална стойност",
+      "сбор",
+      "дърво"
+    ],
+    "key_verbs": [
+      "намерите",
+      "минава",
+      "анализирате",
+      "изведете",
+      "съответства"
+    ]
+  }
+}

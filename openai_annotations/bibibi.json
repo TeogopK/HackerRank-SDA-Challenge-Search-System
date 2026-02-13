@@ -1,0 +1,24 @@
+{
+  "id": "bibibi",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [
+      "searching"
+    ],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "масив ARRAY",
+      "заявки",
+      "индекса на първото срещане",
+      "индекса на последното срещане",
+      "сортирен ARRAY"
+    ],
+    "key_verbs": [
+      "отговорите",
+      "върнете",
+      "изведете",
+      "търсим",
+      "въвежда"
+    ]
+  }
+}

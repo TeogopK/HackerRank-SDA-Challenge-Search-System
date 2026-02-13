@@ -1,0 +1,22 @@
+{
+  "id": "queries-5",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "целочислена редица",
+      "заявки",
+      "подредицата",
+      "числата",
+      "сумата"
+    ],
+    "key_verbs": [
+      "намерете",
+      "отговорите",
+      "изберете",
+      "превишава",
+      "изпълнено"
+    ]
+  }
+}

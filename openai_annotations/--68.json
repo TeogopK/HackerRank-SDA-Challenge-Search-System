@@ -1,0 +1,24 @@
+{
+  "id": "--68",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "shortest_path"
+    ],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "неорентиран граф",
+      "най-късия път",
+      "начален връх",
+      "върховете в графа",
+      "неотрицателно тегло"
+    ],
+    "key_verbs": [
+      "намерете",
+      "състои",
+      "съдържа",
+      "изведете",
+      "съществува"
+    ]
+  }
+}

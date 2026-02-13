@@ -1,0 +1,70 @@
+Challenge: Detect HTML Attributes
+Slug: html-attributes
+Difficulty: Easy
+Max Score: 20
+Success Ratio: 0.7142857142857143
+Solved: 5/7
+
+======================================================================
+
+PROBLEM STATEMENT:
+Charlie's second assignment was given by the Professor as soon as he submitted the first one. Professor asked Charlie to create a list of all the attributes of every tag found in HTML pages.
+
+    This is a paragraph  
+
+The above HTML string has *p* as its tag but *no attributes*. 
+
+    Example Link
+
+This string has *a* as a tag and *href* as an attribute. 
+
+**Input Format**  
+
+The first line contains N, the number of lines in the HTML fragment.
+This is followed by lines from a valid HTML document or fragment.
+
+**Constraints**  
+
+Number of characters in the test fragments Example Link
+    More Link Examples...
+
+**Sample Output:1**  
+
+    a:href
+    div:class
+    p:
+
+**Sample Input:2**  
+
+    9
+    ... that Orval Overall (pictured) is the only Major League Baseball player to strike out four batters in one inning in the World Series?
+    ... that the three cities of the West Triangle Economic Zone contribute 40% of Western China's GDP?
+    ... that Kismet, directed by Gyan Mukherjee, ran at the Roxy, Kolkata, for 3 years and 8 months?
+    ... that Vauix Carter both coached and played for the 1882 Navy Midshipmen football team?
+    ... that Zhu Chenhao was sentenced to slow slicing for leading the Prince of Ning rebellion against the Ming Dynasty emperor Zhengde?
+    ... that Mirza Adeeb was a prominent modern Pakistani Urdu playwright whose later work focuses on social problems and daily life?
+    ... that in Die Wahl des Herkules, Hercules must choose between the good cop and the bad cop?
+    Archive  Start a new article  Nominate an article
+
+**Sample Output:2**  
+
+    a:href,title
+    b:
+    br:style
+    div:class,style
+    i:
+    li:style
+
+**Viewing Submissions**
+
+You can view others' submissions if you solve this challenge. Navigate to the challenge leaderboard.
+
+INPUT FORMAT:
+
+
+CONSTRAINTS:
+
+
+OUTPUT FORMAT:
+
+

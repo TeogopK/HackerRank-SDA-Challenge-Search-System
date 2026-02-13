@@ -1,0 +1,24 @@
+{
+  "id": "challenge-1771",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "shortest_path"
+    ],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "път с К ребра",
+      "най-често срещаната дължина",
+      "градовете",
+      "еднопосочен път",
+      "дължина на път"
+    ],
+    "key_verbs": [
+      "изчисли",
+      "намери",
+      "отговорите",
+      "върни",
+      "минават"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "challenge-4334",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "симетричен масив",
+      "положителен елемент",
+      "отрицателен елемент",
+      "масиви",
+      "YES или NO"
+    ],
+    "key_verbs": [
+      "определете",
+      "въвежда",
+      "извежда"
+    ]
+  }
+}

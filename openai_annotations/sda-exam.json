@@ -1,0 +1,24 @@
+{
+  "id": "sda-exam",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [
+      "graph_traversal"
+    ],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "студенти",
+      "най-краткия път",
+      "бележката",
+      "двойките студенти",
+      "индексът на Иванчо"
+    ],
+    "key_verbs": [
+      "намерете",
+      "подаде",
+      "извежда",
+      "отпечатайте",
+      "съществува"
+    ]
+  }
+}

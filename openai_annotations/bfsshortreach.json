@@ -1,0 +1,22 @@
+{
+  "id": "bfsshortreach",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "undirected graph",
+      "shortest distance",
+      "breadth-first search",
+      "starting position",
+      "unreachable node"
+    ],
+    "key_verbs": [
+      "determine",
+      "report",
+      "create",
+      "return",
+      "calculate"
+    ]
+  }
+}

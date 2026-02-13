@@ -1,0 +1,22 @@
+{
+  "id": "penultimate-descendants",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "двойно дърво за търсене",
+      "върхове",
+      "листo",
+      "NULL",
+      "подредби"
+    ],
+    "key_verbs": [
+      "изтрива",
+      "продължи",
+      "приема",
+      "изведете",
+      "сортиран"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "substring-frequency-1",
+  "annotation": {
+    "primary_topic": "searching",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "s1",
+      "s2",
+      "frequency",
+      "input format",
+      "output format"
+    ],
+    "key_verbs": [
+      "establish",
+      "count",
+      "output"
+    ]
+  }
+}

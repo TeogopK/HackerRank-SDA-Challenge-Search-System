@@ -1,0 +1,22 @@
+{
+  "id": "lego-army",
+  "annotation": {
+    "primary_topic": "priority_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "отбор",
+      "сила",
+      "подготвителни кръга",
+      "фигурки",
+      "битка"
+    ],
+    "key_verbs": [
+      "подготвим",
+      "премахваме",
+      "слагаме",
+      "търсим",
+      "извеждаме"
+    ]
+  }
+}

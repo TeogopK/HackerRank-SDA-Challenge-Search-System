@@ -1,0 +1,22 @@
+{
+  "id": "challenge-5365",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "два низа",
+      "най-дългата обща подредица",
+      "букви",
+      "реда",
+      "стринг"
+    ],
+    "key_verbs": [
+      "намерите",
+      "възстановите",
+      "съдържа",
+      "променяте",
+      "среща"
+    ]
+  }
+}

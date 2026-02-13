@@ -1,0 +1,22 @@
+{
+  "id": "challenge-4561",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "положителни числа",
+      "заявки",
+      "делители",
+      "кратни",
+      "позиции"
+    ],
+    "key_verbs": [
+      "върнете",
+      "въведете",
+      "състоят",
+      "изведете",
+      "броят"
+    ]
+  }
+}

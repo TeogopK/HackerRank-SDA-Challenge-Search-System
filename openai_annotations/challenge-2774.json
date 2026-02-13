@@ -1,0 +1,24 @@
+{
+  "id": "challenge-2774",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "shortest_path"
+    ],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "град A",
+      "град B",
+      "най-дългия път",
+      "броя на всички",
+      "дължината им"
+    ],
+    "key_verbs": [
+      "намери",
+      "преминава",
+      "свързват",
+      "въведат",
+      "изведете"
+    ]
+  }
+}

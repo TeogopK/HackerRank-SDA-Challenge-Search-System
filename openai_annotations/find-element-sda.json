@@ -1,0 +1,22 @@
+{
+  "id": "find-element-sda",
+  "annotation": {
+    "primary_topic": "searching",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "sorted array",
+      "element X",
+      "first position",
+      "last position",
+      "queries"
+    ],
+    "key_verbs": [
+      "find",
+      "output",
+      "respond",
+      "add",
+      "contain"
+    ]
+  }
+}

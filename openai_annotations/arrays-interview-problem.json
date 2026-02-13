@@ -1,0 +1,22 @@
+{
+  "id": "arrays-interview-problem",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "масив от цели числа",
+      "първото липсващо положително число",
+      "константна памет",
+      "линейно време",
+      "числата бяха соритирани"
+    ],
+    "key_verbs": [
+      "намерете",
+      "намери",
+      "помислете",
+      "изведете",
+      "решите"
+    ]
+  }
+}

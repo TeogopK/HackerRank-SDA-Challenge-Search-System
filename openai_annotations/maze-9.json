@@ -1,0 +1,24 @@
+{
+  "id": "maze-9",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "shortest_path"
+    ],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "maze",
+      "cells",
+      "walls",
+      "portal",
+      "exit"
+    ],
+    "key_verbs": [
+      "escape",
+      "move",
+      "open",
+      "find",
+      "reach"
+    ]
+  }
+}

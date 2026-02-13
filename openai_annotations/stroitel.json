@@ -1,0 +1,22 @@
+{
+  "id": "stroitel",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "сгради",
+      "височината",
+      "цена",
+      "промяна",
+      "минимална сума"
+    ],
+    "key_verbs": [
+      "направи",
+      "плащайки",
+      "скъсява",
+      "увеличава",
+      "получи"
+    ]
+  }
+}

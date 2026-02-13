@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2853",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "свързан списък",
+      "последователността",
+      "число на списъка",
+      "функция reverse",
+      "дължината на списъка"
+    ],
+    "key_verbs": [
+      "обръща",
+      "извика",
+      "реализирате",
+      "променен",
+      "минават"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "walking-median-sorting",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "медиана",
+      "масив",
+      "добавяне",
+      "числа",
+      "елементи"
+    ],
+    "key_verbs": [
+      "определите",
+      "въвежда",
+      "извежда",
+      "добавят",
+      "има"
+    ]
+  }
+}

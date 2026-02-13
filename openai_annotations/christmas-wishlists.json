@@ -1,0 +1,22 @@
+{
+  "id": "christmas-wishlists",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "Christmas",
+      "wishlists",
+      "shopping preparation",
+      "friends",
+      "time"
+    ],
+    "key_verbs": [
+      "determine",
+      "count",
+      "review",
+      "prepare",
+      "output"
+    ]
+  }
+}

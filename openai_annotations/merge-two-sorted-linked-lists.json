@@ -1,0 +1,22 @@
+{
+  "id": "merge-two-sorted-linked-lists",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "two sorted linked lists",
+      "single sorted linked list",
+      "head pointer",
+      "test cases",
+      "elements of the linked list"
+    ],
+    "key_verbs": [
+      "merge",
+      "refer",
+      "complete",
+      "return",
+      "contain"
+    ]
+  }
+}

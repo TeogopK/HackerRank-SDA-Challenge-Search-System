@@ -1,0 +1,22 @@
+{
+  "id": "find-the-merge-point-of-two-joined-linked-lists",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "merge point",
+      "two linked lists",
+      "head nodes",
+      "common node",
+      "data value"
+    ],
+    "key_verbs": [
+      "find",
+      "return",
+      "point",
+      "share",
+      "complete"
+    ]
+  }
+}

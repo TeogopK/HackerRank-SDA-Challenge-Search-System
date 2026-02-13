@@ -1,0 +1,22 @@
+{
+  "id": "floyd-city-of-blinding-lights",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "directed weighted graph",
+      "shortest path",
+      "nodes",
+      "queries",
+      "distance"
+    ],
+    "key_verbs": [
+      "determine",
+      "choose",
+      "return",
+      "print",
+      "traverse"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "challenge-4506",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "houses",
+      "alleys",
+      "questions",
+      "path",
+      "Santa"
+    ],
+    "key_verbs": [
+      "reach",
+      "answer",
+      "print",
+      "input",
+      "check"
+    ]
+  }
+}

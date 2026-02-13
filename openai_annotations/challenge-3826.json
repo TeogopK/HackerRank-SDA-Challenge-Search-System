@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3826",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "weighted undirected graph",
+      "sequence of vertices",
+      "length of the path",
+      "number of vertices",
+      "number of edges"
+    ],
+    "key_verbs": [
+      "find",
+      "output",
+      "determine",
+      "check",
+      "enter"
+    ]
+  }
+}

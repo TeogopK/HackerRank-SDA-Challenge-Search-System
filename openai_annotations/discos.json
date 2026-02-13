@@ -1,0 +1,22 @@
+{
+  "id": "discos",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "weighted undirected graph",
+      "vertices",
+      "sets S and T",
+      "minimum distance",
+      "queries"
+    ],
+    "key_verbs": [
+      "write",
+      "answer",
+      "enter",
+      "follow",
+      "output"
+    ]
+  }
+}

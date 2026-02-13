@@ -1,0 +1,22 @@
+{
+  "id": "bonus-persistently-taller-",
+  "annotation": {
+    "primary_topic": "stack_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "sequence of towers",
+      "signal receiver",
+      "transmitter tower",
+      "height of tower",
+      "number of queries"
+    ],
+    "key_verbs": [
+      "send",
+      "receive",
+      "answer",
+      "determine",
+      "output"
+    ]
+  }
+}

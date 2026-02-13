@@ -1,0 +1,22 @@
+{
+  "id": "balloons-and-candy",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "балони",
+      "бонбони",
+      "максимален брой",
+      "минимална стойност",
+      "дни"
+    ],
+    "key_verbs": [
+      "давате",
+      "намерете",
+      "минимизирате",
+      "иска",
+      "давате"
+    ]
+  }
+}

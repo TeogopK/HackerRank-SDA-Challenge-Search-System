@@ -1,0 +1,22 @@
+{
+  "id": "tree-specific-print",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "traversal",
+    "key_phrases": [
+      "специфично принтиране",
+      "възли",
+      "делят на число",
+      "корен - ляво - дясно",
+      "число делител"
+    ],
+    "key_verbs": [
+      "имплементирайте",
+      "принтира",
+      "вкарва",
+      "взима",
+      "проверява"
+    ]
+  }
+}

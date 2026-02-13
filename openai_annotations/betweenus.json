@@ -1,0 +1,22 @@
+{
+  "id": "betweenus",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "minimum time",
+      "crewmates",
+      "current position",
+      "Euclidean distance",
+      "test cases"
+    ],
+    "key_verbs": [
+      "revive",
+      "reach",
+      "calculate",
+      "output",
+      "define"
+    ]
+  }
+}

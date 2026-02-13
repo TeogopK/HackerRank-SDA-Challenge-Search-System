@@ -1,0 +1,22 @@
+{
+  "id": "file-systems",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "файлова система",
+      "поддиректория",
+      "текуща директория",
+      "абсолютния път",
+      "заявки"
+    ],
+    "key_verbs": [
+      "създава",
+      "извежда",
+      "сменя",
+      "реализирате",
+      "изпълнят"
+    ]
+  }
+}

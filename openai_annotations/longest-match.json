@@ -1,0 +1,20 @@
+{
+  "id": "longest-match",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "дълга подниз",
+      "символни низа",
+      "последователност",
+      "дължина",
+      "търсената дължина"
+    ],
+    "key_verbs": [
+      "намери",
+      "среща",
+      "изведи"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "closest-apartments",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "closest apartments",
+      "Euclidean distance",
+      "coordinates",
+      "input format",
+      "output format"
+    ],
+    "key_verbs": [
+      "find",
+      "calculate",
+      "output",
+      "sort",
+      "select"
+    ]
+  }
+}

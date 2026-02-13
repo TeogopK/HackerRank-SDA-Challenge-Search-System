@@ -1,0 +1,24 @@
+{
+  "id": "city-6",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [
+      "graph_traversal"
+    ],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "спирка S",
+      "спирка X",
+      "преки връзки",
+      "време",
+      "списък"
+    ],
+    "key_verbs": [
+      "стигне",
+      "каже",
+      "минe",
+      "пътува",
+      "изведе"
+    ]
+  }
+}

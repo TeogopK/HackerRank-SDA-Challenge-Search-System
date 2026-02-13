@@ -1,0 +1,22 @@
+{
+  "id": "all-paths42",
+  "annotation": {
+    "primary_topic": "eulerian_hamiltonian",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "Super Hamilton",
+      "princess",
+      "labyrinth",
+      "keys",
+      "rooms"
+    ],
+    "key_verbs": [
+      "find",
+      "collect",
+      "visit",
+      "reach",
+      "unlock"
+    ]
+  }
+}

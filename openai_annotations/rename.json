@@ -1,0 +1,22 @@
+{
+  "id": "rename",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "списък с курсисти",
+      "ново име",
+      "краткия префикс",
+      "старо име",
+      "първоначалните имена"
+    ],
+    "key_verbs": [
+      "генерирате",
+      "знае",
+      "оптимизира",
+      "срещнат",
+      "показва"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "volleyball-friends",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "учениците",
+      "най-добрите приятели",
+      "финалния състав",
+      "номера",
+      "екипа"
+    ],
+    "key_verbs": [
+      "играят",
+      "записано",
+      "участват",
+      "знае",
+      "намерете"
+    ]
+  }
+}

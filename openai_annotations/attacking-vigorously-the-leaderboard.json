@@ -1,0 +1,22 @@
+{
+  "id": "attacking-vigorously-the-leaderboard",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "балансираното AVL дърво",
+      "добавяне на елемент",
+      "премахване на елемент",
+      "числото",
+      "текущото състояние"
+    ],
+    "key_verbs": [
+      "добавяне",
+      "премахване",
+      "изписва",
+      "съдържа",
+      "изпишете"
+    ]
+  }
+}

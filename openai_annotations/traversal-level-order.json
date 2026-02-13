@@ -1,0 +1,22 @@
+{
+  "id": "traversal-level-order",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "traversal",
+    "key_phrases": [
+      "двойно наредено дърво",
+      "обхождане по нива",
+      "посока на обхождане",
+      "метод insert()",
+      "метода printSFB()"
+    ],
+    "key_verbs": [
+      "имплементирайте",
+      "обхождате",
+      "въведете",
+      "отпечатайте",
+      "реализирайте"
+    ]
+  }
+}

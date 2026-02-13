@@ -1,0 +1,79 @@
+{
+  "accuracy": 0.3333,
+  "num_samples": 66,
+  "num_correct": 22,
+  "per_class": {
+    "binary_search_tree": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 6
+    },
+    "dynamic_programming": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 13
+    },
+    "graph_traversal": {
+      "precision": 1.0,
+      "recall": 0.3,
+      "f1": 0.4615,
+      "support": 10
+    },
+    "hash_table": {
+      "precision": 0.5,
+      "recall": 0.1429,
+      "f1": 0.2222,
+      "support": 7
+    },
+    "linked_list": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 2
+    },
+    "minimum_spanning_tree": {
+      "precision": 0.1667,
+      "recall": 1.0,
+      "f1": 0.2857,
+      "support": 2
+    },
+    "priority_queue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 2
+    },
+    "searching": {
+      "precision": 0.0714,
+      "recall": 0.6667,
+      "f1": 0.129,
+      "support": 3
+    },
+    "shortest_path": {
+      "precision": 1.0,
+      "recall": 0.4,
+      "f1": 0.5714,
+      "support": 5
+    },
+    "sorting": {
+      "precision": 0.4444,
+      "recall": 0.3636,
+      "f1": 0.4,
+      "support": 11
+    },
+    "stack_queue": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 4
+    },
+    "tree": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 1
+    }
+  }
+}

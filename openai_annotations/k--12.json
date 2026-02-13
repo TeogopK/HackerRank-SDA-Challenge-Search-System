@@ -1,0 +1,22 @@
+{
+  "id": "k--12",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "свързан списък",
+      "възли",
+      "реда",
+      "число N",
+      "число k"
+    ],
+    "key_verbs": [
+      "обръщане",
+      "взимаме",
+      "повтаряме",
+      "остават",
+      "извежда се"
+    ]
+  }
+}

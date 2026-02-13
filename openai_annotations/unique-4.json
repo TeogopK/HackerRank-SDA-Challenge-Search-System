@@ -1,0 +1,22 @@
+{
+  "id": "unique-4",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "числа",
+      "интервала",
+      "цифра",
+      "броят",
+      "търсения"
+    ],
+    "key_verbs": [
+      "намерите",
+      "въвеждат",
+      "извежда",
+      "среща",
+      "съществуват"
+    ]
+  }
+}

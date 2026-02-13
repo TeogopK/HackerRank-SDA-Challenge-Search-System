@@ -1,0 +1,24 @@
+{
+  "id": "2-61",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [
+      "graph_traversal"
+    ],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "доставки",
+      "карта",
+      "клиенти",
+      "пътища",
+      "склада"
+    ],
+    "key_verbs": [
+      "намира",
+      "оптимизира",
+      "предполага",
+      "участва",
+      "показва"
+    ]
+  }
+}

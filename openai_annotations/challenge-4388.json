@@ -1,0 +1,22 @@
+{
+  "id": "challenge-4388",
+  "annotation": {
+    "primary_topic": "stack_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "маршрутка",
+      "група хора",
+      "качват",
+      "слязат",
+      "капацитет"
+    ],
+    "key_verbs": [
+      "изчисли",
+      "качва",
+      "спира",
+      "влиза",
+      "слиза"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1-6-6",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "стринг S",
+      "индексите на символите",
+      "символите",
+      "единичен път",
+      "нарастващ ред"
+    ],
+    "key_verbs": [
+      "изведете",
+      "въвежда",
+      "срещат",
+      "разделени",
+      "сортирани"
+    ]
+  }
+}

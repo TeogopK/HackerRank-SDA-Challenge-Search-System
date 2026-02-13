@@ -1,0 +1,22 @@
+{
+  "id": "autocomplete-19-1",
+  "annotation": {
+    "primary_topic": "searching",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "autocomplete",
+      "dictionary",
+      "prefix",
+      "words",
+      "queries"
+    ],
+    "key_verbs": [
+      "implement",
+      "find",
+      "suggest",
+      "output",
+      "count"
+    ]
+  }
+}

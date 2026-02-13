@@ -1,0 +1,22 @@
+{
+  "id": "challenge-1796",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "дървото",
+      "елемент X",
+      "нови функции",
+      "нечетните нива",
+      "операции"
+    ],
+    "key_verbs": [
+      "изтрива",
+      "запазвайки",
+      "принтира",
+      "търси",
+      "прескачат"
+    ]
+  }
+}

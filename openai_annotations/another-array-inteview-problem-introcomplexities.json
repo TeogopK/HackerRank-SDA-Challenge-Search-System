@@ -1,0 +1,22 @@
+{
+  "id": "another-array-inteview-problem-introcomplexities",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "масив A",
+      "елементите на B",
+      "произведението на елементите",
+      "делението по модул",
+      "остатък на модул"
+    ],
+    "key_verbs": [
+      "изведете",
+      "равен",
+      "помислете",
+      "намерите",
+      "въвежда"
+    ]
+  }
+}

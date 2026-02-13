@@ -1,0 +1,67 @@
+{
+  "model": "hybrid (BERT_WEIGHT=0.4)",
+  "P@1": 0.535,
+  "P@3": 0.453,
+  "P@5": 0.423,
+  "MRR": 0.638,
+  "MAP@5": 0.605,
+  "total_queries": 329,
+  "per_topic": {
+    "binary_search_tree": {
+      "count": 38,
+      "P@1": 0.921
+    },
+    "dynamic_programming": {
+      "count": 68,
+      "P@1": 0.441
+    },
+    "eulerian_hamiltonian": {
+      "count": 1,
+      "P@1": 0.0
+    },
+    "graph_traversal": {
+      "count": 52,
+      "P@1": 0.654
+    },
+    "hash_table": {
+      "count": 32,
+      "P@1": 0.219
+    },
+    "linked_list": {
+      "count": 25,
+      "P@1": 0.84
+    },
+    "minimum_spanning_tree": {
+      "count": 8,
+      "P@1": 0.375
+    },
+    "priority_queue": {
+      "count": 8,
+      "P@1": 0.375
+    },
+    "searching": {
+      "count": 8,
+      "P@1": 0.25
+    },
+    "shortest_path": {
+      "count": 20,
+      "P@1": 0.65
+    },
+    "sorting": {
+      "count": 44,
+      "P@1": 0.477
+    },
+    "stack_queue": {
+      "count": 23,
+      "P@1": 0.304
+    },
+    "string": {
+      "count": 1,
+      "P@1": 0.0
+    },
+    "tree": {
+      "count": 1,
+      "P@1": 0.0
+    }
+  }
+}

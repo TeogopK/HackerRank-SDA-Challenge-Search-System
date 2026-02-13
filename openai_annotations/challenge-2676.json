@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2676",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "поредица от номера",
+      "подредена редица",
+      "премахнати дубликати",
+      "вход",
+      "изход"
+    ],
+    "key_verbs": [
+      "взима",
+      "изведе",
+      "нарежда",
+      "премахва",
+      "разделени"
+    ]
+  }
+}

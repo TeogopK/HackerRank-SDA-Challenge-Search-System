@@ -1,0 +1,22 @@
+{
+  "id": "test3-zad1",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "едносвързан списък",
+      "операции",
+      "позиция",
+      "число",
+      "елемент"
+    ],
+    "key_verbs": [
+      "добавя",
+      "премахва",
+      "изкарва",
+      "обръща",
+      "проверява"
+    ]
+  }
+}

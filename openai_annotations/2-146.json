@@ -1,0 +1,22 @@
+{
+  "id": "2-146",
+  "annotation": {
+    "primary_topic": "minimum_spanning_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "N града",
+      "M двупосочни пътя",
+      "построяване на пътя",
+      "минимално усилие",
+      "максимална печалба"
+    ],
+    "key_verbs": [
+      "изберете",
+      "достигне",
+      "намерите",
+      "построявате",
+      "отпечатайте"
+    ]
+  }
+}

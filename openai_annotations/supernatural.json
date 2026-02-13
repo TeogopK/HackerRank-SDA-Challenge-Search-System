@@ -1,0 +1,22 @@
+{
+  "id": "supernatural",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "N зони",
+      "магическа енергия",
+      "най-голям район",
+      "броя на райони",
+      "общата сума"
+    ],
+    "key_verbs": [
+      "намерите",
+      "отпечатате",
+      "изведете",
+      "участва",
+      "определя"
+    ]
+  }
+}

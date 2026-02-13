@@ -1,0 +1,24 @@
+{
+  "id": "shortest-tour",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [
+      "graph_traversal"
+    ],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "tourist attractions",
+      "one-way streets",
+      "shortest path",
+      "input format",
+      "output format"
+    ],
+    "key_verbs": [
+      "find",
+      "visit",
+      "input",
+      "output",
+      "pass"
+    ]
+  }
+}

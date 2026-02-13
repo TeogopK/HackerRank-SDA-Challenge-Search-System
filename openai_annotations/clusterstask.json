@@ -1,0 +1,22 @@
+{
+  "id": "clusterstask",
+  "annotation": {
+    "primary_topic": "minimum_spanning_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "неориентиран свързан тегловен граф",
+      "клъстери",
+      "свързан ацикличен подграф",
+      "най-тежкото ребро",
+      "сортиран списък"
+    ],
+    "key_verbs": [
+      "реализирате",
+      "разбиете",
+      "сумират",
+      "изведете",
+      "върнете"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "P@1": 0.465,
+  "P@3": 0.424,
+  "P@5": 0.403,
+  "MRR": 0.59,
+  "MAP@5": 0.56,
+  "total_queries": 329,
+  "per_topic": {
+    "binary_search_tree": {
+      "count": 38,
+      "P@1": 0.763
+    },
+    "dynamic_programming": {
+      "count": 68,
+      "P@1": 0.353
+    },
+    "eulerian_hamiltonian": {
+      "count": 1,
+      "P@1": 0.0
+    },
+    "graph_traversal": {
+      "count": 52,
+      "P@1": 0.596
+    },
+    "hash_table": {
+      "count": 32,
+      "P@1": 0.281
+    },
+    "linked_list": {
+      "count": 25,
+      "P@1": 0.8
+    },
+    "minimum_spanning_tree": {
+      "count": 8,
+      "P@1": 0.625
+    },
+    "priority_queue": {
+      "count": 8,
+      "P@1": 0.375
+    },
+    "searching": {
+      "count": 8,
+      "P@1": 0.375
+    },
+    "shortest_path": {
+      "count": 20,
+      "P@1": 0.4
+    },
+    "sorting": {
+      "count": 44,
+      "P@1": 0.341
+    },
+    "stack_queue": {
+      "count": 23,
+      "P@1": 0.261
+    },
+    "string": {
+      "count": 1,
+      "P@1": 0.0
+    },
+    "tree": {
+      "count": 1,
+      "P@1": 0.0
+    }
+  }
+}

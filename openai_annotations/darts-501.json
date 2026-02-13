@@ -1,0 +1,22 @@
+{
+  "id": "darts-501",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "remaining points",
+      "checkout",
+      "different ways",
+      "dartboard",
+      "throws"
+    ],
+    "key_verbs": [
+      "calculate",
+      "understand",
+      "print",
+      "make",
+      "hit"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "reachable-employees",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "служители",
+      "близки връзки",
+      "съобщение",
+      "заявки",
+      "достигне"
+    ],
+    "key_verbs": [
+      "пуска",
+      "препраща",
+      "отговори",
+      "може",
+      "достигне"
+    ]
+  }
+}

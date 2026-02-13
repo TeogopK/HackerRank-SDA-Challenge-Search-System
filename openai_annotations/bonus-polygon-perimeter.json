@@ -1,0 +1,22 @@
+{
+  "id": "bonus-polygon-perimeter",
+  "annotation": {
+    "primary_topic": "tree",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "N точки",
+      "двумерна координатна система",
+      "изпъкналия полигон",
+      "най-малък периметър",
+      "периметъра на полигон"
+    ],
+    "key_verbs": [
+      "намерете",
+      "лежат",
+      "съдържа",
+      "изведете",
+      "има"
+    ]
+  }
+}

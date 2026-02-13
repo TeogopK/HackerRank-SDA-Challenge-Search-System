@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2712",
+  "annotation": {
+    "primary_topic": "stack_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "счетоводна програмка",
+      "числа",
+      "undo операция",
+      "redo операция",
+      "сумата"
+    ],
+    "key_verbs": [
+      "събира",
+      "премахва",
+      "възстановява",
+      "изпълни",
+      "върни"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "weird-array-1",
+  "annotation": {
+    "primary_topic": "searching",
+    "secondary_topics": [
+      "sorting"
+    ],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "cyclic array",
+      "rotations",
+      "element position",
+      "queries",
+      "input format"
+    ],
+    "key_verbs": [
+      "give",
+      "search",
+      "output",
+      "enter",
+      "contain"
+    ]
+  }
+}

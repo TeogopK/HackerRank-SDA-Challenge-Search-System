@@ -1,0 +1,22 @@
+{
+  "id": "1-579",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "граф",
+      "свързани компоненти",
+      "ребра",
+      "цикъл",
+      "върха"
+    ],
+    "key_verbs": [
+      "кажете",
+      "добавят",
+      "извежда",
+      "създаде",
+      "чете"
+    ]
+  }
+}

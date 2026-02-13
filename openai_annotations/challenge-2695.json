@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2695",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "N цели числа",
+      "подмасиви с дължина d",
+      "сумата от минималните елементи",
+      "входен формат",
+      "изходен формат"
+    ],
+    "key_verbs": [
+      "намерете",
+      "изведете",
+      "съдържа",
+      "сумата",
+      "минимални"
+    ]
+  }
+}

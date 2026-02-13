@@ -1,0 +1,22 @@
+{
+  "id": "electrical-energy",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "сгради",
+      "електрическа енергия",
+      "височини",
+      "предавател",
+      "сигнал"
+    ],
+    "key_verbs": [
+      "изпрати",
+      "намери",
+      "изчисли",
+      "въведи",
+      "изведи"
+    ]
+  }
+}

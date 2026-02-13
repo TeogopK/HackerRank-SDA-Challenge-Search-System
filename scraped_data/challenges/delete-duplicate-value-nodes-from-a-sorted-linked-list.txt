@@ -1,0 +1,48 @@
+Challenge: Delete duplicate-value nodes from a sorted linked list
+Slug: delete-duplicate-value-nodes-from-a-sorted-linked-list
+Difficulty: Easy
+Max Score: 30
+Success Ratio: 0.9922480620155039
+Solved: 128/129
+
+======================================================================
+
+PROBLEM STATEMENT:
+This challenge is part of a tutorial track by [MyCodeSchool](http://www.youtube.com/mycodeschool)
+
+You are given the pointer to the head node of a sorted linked list, where the data in the nodes is in ascending order. Delete nodes and return a sorted list with each distinct value in the original list. The given head pointer may be null indicating that the list is empty.  
+
+**Example**  
+
+$head$ refers to the first node in the list $1 \rightarrow 2 \rightarrow 2 \rightarrow 3 \rightarrow 3 \rightarrow 3 \rightarrow 3 \rightarrow NULL$.  
+
+Remove 1 of the $2$ data values and return $head$ pointing to the revised list $1 \rightarrow 2 \rightarrow 3 \rightarrow NULL$.  
+
+**Function Description**  
+
+Complete the *removeDuplicates* function in the editor below.  
+
+*removeDuplicates* has the following parameter:  
+
+- *SinglyLinkedListNode pointer head:* a reference to the head of the list  
+
+**Returns**  
+
+- *SinglyLinkedListNode pointer:* a reference to the head of the revised list
+
+INPUT FORMAT:
+The first line contains an integer $t$, the number of test cases.
+
+The format for each test case is as follows:  
+
+The first line contains an integer $n$, the number of elements in the linked list.  
+Each of the next $n$ lines contains an integer, the $data$ value for each of the elements of the linked list.
+
+CONSTRAINTS:
+- $ 1 \le t \le 10$  
+- $ 1 \le n \le 1000$
+- $ 1 \le list[i] \le 1000$
+
+OUTPUT FORMAT:
+
+

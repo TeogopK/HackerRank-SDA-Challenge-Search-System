@@ -1,0 +1,22 @@
+{
+  "id": "cloning-socks",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "cloning machine",
+      "normal socks",
+      "copies",
+      "necessary number",
+      "input format"
+    ],
+    "key_verbs": [
+      "need",
+      "get",
+      "output",
+      "determine",
+      "use"
+    ]
+  }
+}

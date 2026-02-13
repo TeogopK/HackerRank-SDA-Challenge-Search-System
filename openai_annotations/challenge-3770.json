@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3770",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "файлова система",
+      "поддиректория",
+      "текущата директория",
+      "абсолютния път",
+      "заявки"
+    ],
+    "key_verbs": [
+      "създава",
+      "извежда",
+      "сменя",
+      "подава",
+      "реализирате"
+    ]
+  }
+}

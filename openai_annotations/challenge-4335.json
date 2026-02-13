@@ -1,0 +1,22 @@
+{
+  "id": "challenge-4335",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "нечетни по дължина подмасиви",
+      "число B",
+      "медиана",
+      "масив от числа",
+      "дължина N"
+    ],
+    "key_verbs": [
+      "определя",
+      "явява",
+      "изведете",
+      "състои",
+      "включително"
+    ]
+  }
+}

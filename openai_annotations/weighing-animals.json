@@ -1,0 +1,22 @@
+{
+  "id": "weighing-animals",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "weights of animals",
+      "criteria for weights",
+      "triples of animals",
+      "input format",
+      "output format"
+    ],
+    "key_verbs": [
+      "find",
+      "search",
+      "correspond",
+      "input",
+      "output"
+    ]
+  }
+}

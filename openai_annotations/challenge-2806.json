@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2806",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "дълбочина на дървото",
+      "оптимален връх",
+      "върхове",
+      "корен",
+      "броя на върховете"
+    ],
+    "key_verbs": [
+      "намира",
+      "минимизираме",
+      "изберем",
+      "изведете",
+      "подредите"
+    ]
+  }
+}

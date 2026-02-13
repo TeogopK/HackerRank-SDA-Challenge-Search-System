@@ -1,0 +1,20 @@
+{
+  "id": "challenge-1692",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "сумата на листата",
+      "нечетна стойност",
+      "двойно дърво",
+      "възел",
+      "корена на дървото"
+    ],
+    "key_verbs": [
+      "намерете",
+      "принтира",
+      "има"
+    ]
+  }
+}

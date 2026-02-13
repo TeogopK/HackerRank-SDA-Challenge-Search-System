@@ -1,0 +1,22 @@
+{
+  "id": "traffic-light-groups",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "traffic lights",
+      "synchronized groups",
+      "installed array",
+      "consecutive traffic lights",
+      "earliest day"
+    ],
+    "key_verbs": [
+      "activate",
+      "install",
+      "return",
+      "count",
+      "print"
+    ]
+  }
+}

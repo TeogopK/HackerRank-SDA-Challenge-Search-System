@@ -1,0 +1,1578 @@
+[
+  {
+    "slug": "left-right-2",
+    "gold": "tree_structure",
+    "top_k": [
+      [
+        "tree_structure",
+        18.2261157917638
+      ],
+      [
+        "searching",
+        9.982075107784773
+      ],
+      [
+        "sorting",
+        3.4831591360889727
+      ],
+      [
+        "linear_structure",
+        3.100014535617232
+      ],
+      [
+        "hash_table",
+        2.020069864406536
+      ]
+    ]
+  },
+  {
+    "slug": "tree-height-of-a-binary-tree",
+    "gold": "tree_structure",
+    "top_k": [
+      [
+        "searching",
+        2.6293376269272755
+      ],
+      [
+        "graph",
+        1.4067884370284043
+      ],
+      [
+        "dynamic_programming",
+        0.5924556996662353
+      ]
+    ]
+  },
+  {
+    "slug": "attacking-vigorously-the-leaderboard",
+    "gold": "tree_structure",
+    "top_k": [
+      [
+        "tree_structure",
+        15.028044335940677
+      ],
+      [
+        "searching",
+        11.803658181675042
+      ],
+      [
+        "linear_structure",
+        4.7113975102627395
+      ],
+      [
+        "sorting",
+        3.0095483212468457
+      ],
+      [
+        "dynamic_programming",
+        1.947266135794103
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-1693",
+    "gold": "tree_structure",
+    "top_k": [
+      [
+        "tree_structure",
+        17.05229772317221
+      ],
+      [
+        "searching",
+        6.758224946768557
+      ],
+      [
+        "linear_structure",
+        3.380805766500756
+      ],
+      [
+        "sorting",
+        1.8235657771073654
+      ],
+      [
+        "hash_table",
+        0.7415765292825616
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-1692",
+    "gold": "tree_structure",
+    "top_k": [
+      [
+        "tree_structure",
+        31.607318812547234
+      ],
+      [
+        "searching",
+        6.758224946768557
+      ],
+      [
+        "linear_structure",
+        3.035476014479661
+      ],
+      [
+        "sorting",
+        1.4843631633632954
+      ],
+      [
+        "graph",
+        1.1191063645766235
+      ]
+    ]
+  },
+  {
+    "slug": "tree-top-view",
+    "gold": "tree_structure",
+    "top_k": [
+      [
+        "searching",
+        2.6293376269272755
+      ],
+      [
+        "dynamic_programming",
+        0.5924556996662353
+      ]
+    ]
+  },
+  {
+    "slug": "print-specific-level",
+    "gold": "tree_structure",
+    "top_k": [
+      [
+        "tree_structure",
+        22.587670256440532
+      ],
+      [
+        "searching",
+        10.051159815486953
+      ],
+      [
+        "sorting",
+        5.056257649668421
+      ],
+      [
+        "linear_structure",
+        4.585483282288277
+      ],
+      [
+        "graph",
+        2.9081789221190437
+      ]
+    ]
+  },
+  {
+    "slug": "2-61",
+    "gold": "graph",
+    "top_k": [
+      [
+        "hash_table",
+        10.713193456412506
+      ],
+      [
+        "searching",
+        6.5374525023949275
+      ],
+      [
+        "graph",
+        3.932683238633431
+      ],
+      [
+        "sorting",
+        3.4014557601849837
+      ],
+      [
+        "dynamic_programming",
+        1.9148887927716802
+      ]
+    ]
+  },
+  {
+    "slug": "--152",
+    "gold": "graph",
+    "top_k": [
+      [
+        "graph",
+        12.357460773328846
+      ],
+      [
+        "searching",
+        11.569750329950985
+      ],
+      [
+        "sorting",
+        9.271022446006459
+      ],
+      [
+        "tree_structure",
+        5.749509779742808
+      ],
+      [
+        "dynamic_programming",
+        3.06750304036121
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2736",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        15.313513404537906
+      ],
+      [
+        "sorting",
+        10.013918133492766
+      ],
+      [
+        "tree_structure",
+        4.45491483578786
+      ],
+      [
+        "linear_structure",
+        4.09277683872121
+      ],
+      [
+        "dynamic_programming",
+        3.904005909436561
+      ]
+    ]
+  },
+  {
+    "slug": "test123-25",
+    "gold": "graph",
+    "top_k": [
+      [
+        "graph",
+        15.298032847771434
+      ],
+      [
+        "searching",
+        7.969038071406596
+      ],
+      [
+        "tree_structure",
+        4.40754366149371
+      ],
+      [
+        "sorting",
+        3.4215882589431823
+      ],
+      [
+        "dynamic_programming",
+        3.0759658223285977
+      ]
+    ]
+  },
+  {
+    "slug": "components-in-graph",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        2.6293376269272755
+      ],
+      [
+        "dynamic_programming",
+        2.165740652344197
+      ],
+      [
+        "graph",
+        1.4067884370284043
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-1771",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        17.825901131568035
+      ],
+      [
+        "graph",
+        11.376375146952808
+      ],
+      [
+        "sorting",
+        6.15504623231076
+      ],
+      [
+        "dynamic_programming",
+        3.3411569084587645
+      ],
+      [
+        "hash_table",
+        2.9372261211160655
+      ]
+    ]
+  },
+  {
+    "slug": "long-long",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        16.37082480900102
+      ],
+      [
+        "graph",
+        12.051227689140735
+      ],
+      [
+        "tree_structure",
+        4.722771415518269
+      ],
+      [
+        "dynamic_programming",
+        4.129962369273181
+      ],
+      [
+        "sorting",
+        3.3091363821097137
+      ]
+    ]
+  },
+  {
+    "slug": "shortest-tour",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        20.814760994284686
+      ],
+      [
+        "graph",
+        8.5194591019703
+      ],
+      [
+        "sorting",
+        7.538993927002188
+      ],
+      [
+        "tree_structure",
+        5.749509779742808
+      ],
+      [
+        "linear_structure",
+        2.9804997202035572
+      ]
+    ]
+  },
+  {
+    "slug": "1-143",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        14.02681962473935
+      ],
+      [
+        "graph",
+        9.117616444598076
+      ],
+      [
+        "sorting",
+        4.723629865512523
+      ],
+      [
+        "tree_structure",
+        2.040507118293444
+      ],
+      [
+        "dynamic_programming",
+        2.028896211694348
+      ]
+    ]
+  },
+  {
+    "slug": "betweenus",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        15.12564543185129
+      ],
+      [
+        "hash_table",
+        5.328484082597049
+      ],
+      [
+        "dynamic_programming",
+        4.389149873313708
+      ],
+      [
+        "graph",
+        3.8503232784346677
+      ],
+      [
+        "linear_structure",
+        3.384231167958176
+      ]
+    ]
+  },
+  {
+    "slug": "city-6",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        8.459637468018355
+      ],
+      [
+        "graph",
+        6.888807056387466
+      ],
+      [
+        "linear_structure",
+        5.398007555716896
+      ],
+      [
+        "dynamic_programming",
+        4.91411816969217
+      ],
+      [
+        "hash_table",
+        2.3349161805277943
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2326",
+    "gold": "graph",
+    "top_k": [
+      [
+        "graph",
+        33.48595429335744
+      ],
+      [
+        "searching",
+        18.296401084198184
+      ],
+      [
+        "hash_table",
+        11.089678587494376
+      ],
+      [
+        "sorting",
+        6.095541152042349
+      ],
+      [
+        "dynamic_programming",
+        2.5035688757041994
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2774",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        14.395867329661865
+      ],
+      [
+        "sorting",
+        10.02126496436825
+      ],
+      [
+        "graph",
+        8.85781206305135
+      ],
+      [
+        "tree_structure",
+        7.108864726235401
+      ],
+      [
+        "dynamic_programming",
+        6.0517265757855405
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2299",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        11.828701098705098
+      ],
+      [
+        "graph",
+        6.458578040238459
+      ],
+      [
+        "dynamic_programming",
+        3.9585065273683573
+      ],
+      [
+        "hash_table",
+        2.0397916868867054
+      ],
+      [
+        "linear_structure",
+        1.7731508191228258
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2795",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        17.825901131568035
+      ],
+      [
+        "graph",
+        12.672608448443968
+      ],
+      [
+        "sorting",
+        6.15504623231076
+      ],
+      [
+        "dynamic_programming",
+        3.3411569084587645
+      ],
+      [
+        "hash_table",
+        2.9372261211160655
+      ]
+    ]
+  },
+  {
+    "slug": "components-mst-k",
+    "gold": "graph",
+    "top_k": [
+      [
+        "searching",
+        12.3572143869887
+      ],
+      [
+        "graph",
+        8.314222399158174
+      ],
+      [
+        "tree_structure",
+        7.489039481671153
+      ],
+      [
+        "linear_structure",
+        3.902134881900218
+      ],
+      [
+        "dynamic_programming",
+        1.3377005652362342
+      ]
+    ]
+  },
+  {
+    "slug": "--169",
+    "gold": "searching",
+    "top_k": [
+      [
+        "searching",
+        28.311625192073915
+      ],
+      [
+        "sorting",
+        11.339519923767108
+      ],
+      [
+        "hash_table",
+        3.8008525656654886
+      ],
+      [
+        "linear_structure",
+        3.2825705301074377
+      ],
+      [
+        "dynamic_programming",
+        2.7220433922542933
+      ]
+    ]
+  },
+  {
+    "slug": "-1-21",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "linear_structure",
+        34.491914969525624
+      ],
+      [
+        "searching",
+        5.211448834207005
+      ],
+      [
+        "sorting",
+        3.513440367728094
+      ],
+      [
+        "tree_structure",
+        2.8576812191055816
+      ],
+      [
+        "graph",
+        2.302751250290818
+      ]
+    ]
+  },
+  {
+    "slug": "file-systems",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        11.39632301105877
+      ],
+      [
+        "sorting",
+        6.23336520607401
+      ],
+      [
+        "tree_structure",
+        4.602721771159347
+      ],
+      [
+        "hash_table",
+        4.1624876998655616
+      ],
+      [
+        "graph",
+        3.6450011661816513
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2231",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        29.135147626960723
+      ],
+      [
+        "sorting",
+        11.179689146078896
+      ],
+      [
+        "linear_structure",
+        6.252594908138012
+      ],
+      [
+        "hash_table",
+        6.186151019289436
+      ],
+      [
+        "dynamic_programming",
+        3.0061977322660125
+      ]
+    ]
+  },
+  {
+    "slug": "lego-army",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        17.925710457378244
+      ],
+      [
+        "hash_table",
+        6.856441225897003
+      ],
+      [
+        "sorting",
+        5.688516422906262
+      ],
+      [
+        "linear_structure",
+        4.610188719144135
+      ],
+      [
+        "tree_structure",
+        3.833120224859081
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-1669",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        18.998116405051537
+      ],
+      [
+        "hash_table",
+        7.4845659009668175
+      ],
+      [
+        "sorting",
+        6.364212697645798
+      ],
+      [
+        "linear_structure",
+        5.402510285255236
+      ],
+      [
+        "dynamic_programming",
+        2.4848716365858574
+      ]
+    ]
+  },
+  {
+    "slug": "npm-install-1",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        11.156454543372273
+      ],
+      [
+        "hash_table",
+        5.5715376667724
+      ],
+      [
+        "sorting",
+        4.835087904874944
+      ],
+      [
+        "linear_structure",
+        3.227594235831334
+      ],
+      [
+        "dynamic_programming",
+        1.687754940309019
+      ]
+    ]
+  },
+  {
+    "slug": "merge-two-sorted-linked-lists",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "linear_structure",
+        8.97959680858915
+      ],
+      [
+        "searching",
+        2.6293376269272755
+      ],
+      [
+        "dynamic_programming",
+        0.5924556996662353
+      ]
+    ]
+  },
+  {
+    "slug": "exam-5-1",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        18.06089905678141
+      ],
+      [
+        "linear_structure",
+        12.227545425279395
+      ],
+      [
+        "sorting",
+        9.149635878375083
+      ],
+      [
+        "hash_table",
+        5.953221480700341
+      ],
+      [
+        "dynamic_programming",
+        4.119167377961328
+      ]
+    ]
+  },
+  {
+    "slug": "fullstack-developer",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        15.155445266052638
+      ],
+      [
+        "linear_structure",
+        6.429203834413205
+      ],
+      [
+        "sorting",
+        5.722821241338803
+      ],
+      [
+        "dynamic_programming",
+        4.575142802852838
+      ],
+      [
+        "hash_table",
+        2.0817053324842862
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2727",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        10.60757341378973
+      ],
+      [
+        "sorting",
+        5.304325169238999
+      ],
+      [
+        "hash_table",
+        4.953080002581228
+      ],
+      [
+        "dynamic_programming",
+        4.871155058544207
+      ],
+      [
+        "linear_structure",
+        4.060503358766438
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-3770",
+    "gold": "linear_structure",
+    "top_k": [
+      [
+        "searching",
+        11.39632301105877
+      ],
+      [
+        "sorting",
+        6.23336520607401
+      ],
+      [
+        "tree_structure",
+        4.602721771159347
+      ],
+      [
+        "hash_table",
+        4.1624876998655616
+      ],
+      [
+        "graph",
+        3.6450011661816513
+      ]
+    ]
+  },
+  {
+    "slug": "longest-match",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        19.128569628913066
+      ],
+      [
+        "sorting",
+        8.203181816005104
+      ],
+      [
+        "dynamic_programming",
+        3.2906465916754195
+      ],
+      [
+        "hash_table",
+        2.506127966676704
+      ],
+      [
+        "linear_structure",
+        1.485468746671045
+      ]
+    ]
+  },
+  {
+    "slug": "a-225",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        6.701670752723551
+      ],
+      [
+        "sorting",
+        5.035254673226248
+      ],
+      [
+        "dynamic_programming",
+        4.583123405149741
+      ],
+      [
+        "tree_structure",
+        1.6787170736879404
+      ],
+      [
+        "hash_table",
+        1.1331724312290135
+      ]
+    ]
+  },
+  {
+    "slug": "stroitel",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        4.880625830554738
+      ],
+      [
+        "sorting",
+        4.600148808741501
+      ],
+      [
+        "hash_table",
+        3.9642626739213704
+      ],
+      [
+        "dynamic_programming",
+        3.7296525222917833
+      ],
+      [
+        "linear_structure",
+        0.5691780147968899
+      ]
+    ]
+  },
+  {
+    "slug": "task-2-1-1",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        15.48204133925001
+      ],
+      [
+        "dynamic_programming",
+        7.77203916186055
+      ],
+      [
+        "sorting",
+        6.872148793589751
+      ],
+      [
+        "hash_table",
+        5.142765839004458
+      ],
+      [
+        "linear_structure",
+        3.54011550813898
+      ]
+    ]
+  },
+  {
+    "slug": "1-410",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        21.48192551617149
+      ],
+      [
+        "linear_structure",
+        6.145289330268779
+      ],
+      [
+        "sorting",
+        4.991424602642438
+      ],
+      [
+        "dynamic_programming",
+        1.9148887927716802
+      ],
+      [
+        "hash_table",
+        1.541107100356668
+      ]
+    ]
+  },
+  {
+    "slug": "traffic-light-groups",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        8.704273848471537
+      ],
+      [
+        "sorting",
+        4.382313258512933
+      ],
+      [
+        "linear_structure",
+        2.97093749334209
+      ],
+      [
+        "dynamic_programming",
+        2.587150485706276
+      ],
+      [
+        "tree_structure",
+        2.187689128804609
+      ]
+    ]
+  },
+  {
+    "slug": "1-454",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        9.833734835892098
+      ],
+      [
+        "graph",
+        7.531782304854737
+      ],
+      [
+        "linear_structure",
+        4.62011914670186
+      ],
+      [
+        "sorting",
+        4.563781164570626
+      ],
+      [
+        "tree_structure",
+        2.9773891533961203
+      ]
+    ]
+  },
+  {
+    "slug": "balloons-and-candy",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        13.669552201207953
+      ],
+      [
+        "sorting",
+        2.9515846296974466
+      ],
+      [
+        "dynamic_programming",
+        2.5350528006962225
+      ],
+      [
+        "graph",
+        2.238212729153247
+      ],
+      [
+        "linear_structure",
+        2.054646761467935
+      ]
+    ]
+  },
+  {
+    "slug": "highways",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        12.447357623459261
+      ],
+      [
+        "sorting",
+        10.926685042547815
+      ],
+      [
+        "hash_table",
+        5.48524397510435
+      ],
+      [
+        "linear_structure",
+        3.8277975805907607
+      ],
+      [
+        "dynamic_programming",
+        2.8354865458195406
+      ]
+    ]
+  },
+  {
+    "slug": "playjewel",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        21.026250525835497
+      ],
+      [
+        "sorting",
+        6.554859218662409
+      ],
+      [
+        "linear_structure",
+        3.604654029276551
+      ],
+      [
+        "hash_table",
+        2.6998008049958266
+      ],
+      [
+        "dynamic_programming",
+        2.5718830135754867
+      ]
+    ]
+  },
+  {
+    "slug": "supernatural",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        7.907815604862904
+      ],
+      [
+        "dynamic_programming",
+        3.6296379585664966
+      ],
+      [
+        "linear_structure",
+        3.1346504000308153
+      ],
+      [
+        "sorting",
+        2.1612454553676312
+      ],
+      [
+        "hash_table",
+        1.9043713172013708
+      ]
+    ]
+  },
+  {
+    "slug": "0-1-1",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        11.685830675469122
+      ],
+      [
+        "dynamic_programming",
+        3.045878424462213
+      ],
+      [
+        "sorting",
+        2.604083213138681
+      ],
+      [
+        "hash_table",
+        2.5285708761669037
+      ],
+      [
+        "linear_structure",
+        2.054646761467935
+      ]
+    ]
+  },
+  {
+    "slug": "queries-5",
+    "gold": "dynamic_programming",
+    "top_k": [
+      [
+        "searching",
+        31.478903980750495
+      ],
+      [
+        "linear_structure",
+        9.486446689103367
+      ],
+      [
+        "sorting",
+        9.422597311585047
+      ],
+      [
+        "dynamic_programming",
+        4.240478146057773
+      ],
+      [
+        "hash_table",
+        2.6199760514785786
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-6028",
+    "gold": "hash_table",
+    "top_k": [
+      [
+        "searching",
+        16.175125626853383
+      ],
+      [
+        "linear_structure",
+        6.973978540550754
+      ],
+      [
+        "sorting",
+        6.431136580190028
+      ],
+      [
+        "dynamic_programming",
+        2.7220433922542933
+      ],
+      [
+        "hash_table",
+        2.1051908124336887
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-3669",
+    "gold": "hash_table",
+    "top_k": [
+      [
+        "searching",
+        9.846692676103196
+      ],
+      [
+        "linear_structure",
+        3.258619565793871
+      ],
+      [
+        "sorting",
+        2.9515846296974466
+      ],
+      [
+        "dynamic_programming",
+        2.475846318350926
+      ],
+      [
+        "hash_table",
+        1.154373628010244
+      ]
+    ]
+  },
+  {
+    "slug": "text-contents",
+    "gold": "hash_table",
+    "top_k": [
+      [
+        "searching",
+        8.081907613671847
+      ],
+      [
+        "sorting",
+        5.932086663908385
+      ],
+      [
+        "dynamic_programming",
+        3.71046905681079
+      ],
+      [
+        "linear_structure",
+        2.7612695641684653
+      ],
+      [
+        "hash_table",
+        1.7699441933918463
+      ]
+    ]
+  },
+  {
+    "slug": "cache-8",
+    "gold": "hash_table",
+    "top_k": [
+      [
+        "searching",
+        29.707758843659033
+      ],
+      [
+        "linear_structure",
+        8.721076871315457
+      ],
+      [
+        "sorting",
+        6.385310124566582
+      ],
+      [
+        "hash_table",
+        5.864072162657781
+      ],
+      [
+        "tree_structure",
+        5.312476087928701
+      ]
+    ]
+  },
+  {
+    "slug": "zoros-mask",
+    "gold": "hash_table",
+    "top_k": [
+      [
+        "searching",
+        18.81586340479325
+      ],
+      [
+        "sorting",
+        5.239786648101428
+      ],
+      [
+        "linear_structure",
+        3.54011550813898
+      ],
+      [
+        "hash_table",
+        1.4813987707091756
+      ],
+      [
+        "tree_structure",
+        1.2672752256475075
+      ]
+    ]
+  },
+  {
+    "slug": "-8",
+    "gold": "hash_table",
+    "top_k": [
+      [
+        "searching",
+        13.081725422336197
+      ],
+      [
+        "sorting",
+        7.540683602252364
+      ],
+      [
+        "hash_table",
+        6.636037943606574
+      ],
+      [
+        "dynamic_programming",
+        2.4750473406949745
+      ],
+      [
+        "linear_structure",
+        2.054646761467935
+      ]
+    ]
+  },
+  {
+    "slug": "sorting-vol-4",
+    "gold": "sorting",
+    "top_k": [
+      [
+        "sorting",
+        30.466956741336656
+      ],
+      [
+        "searching",
+        18.64865135603217
+      ],
+      [
+        "dynamic_programming",
+        3.026817019468748
+      ],
+      [
+        "linear_structure",
+        2.86806111436968
+      ],
+      [
+        "hash_table",
+        1.4813987707091756
+      ]
+    ]
+  },
+  {
+    "slug": "subarray123",
+    "gold": "sorting",
+    "top_k": [
+      [
+        "searching",
+        19.81024284295503
+      ],
+      [
+        "sorting",
+        5.597971238839919
+      ],
+      [
+        "dynamic_programming",
+        4.835116567046311
+      ],
+      [
+        "linear_structure",
+        4.556054125152198
+      ],
+      [
+        "graph",
+        1.6785969412178243
+      ]
+    ]
+  },
+  {
+    "slug": "arrays-interview-problem",
+    "gold": "sorting",
+    "top_k": [
+      [
+        "searching",
+        17.615594667846707
+      ],
+      [
+        "sorting",
+        10.262398829616732
+      ],
+      [
+        "dynamic_programming",
+        8.283131322003857
+      ],
+      [
+        "linear_structure",
+        5.056239268462137
+      ],
+      [
+        "hash_table",
+        4.681507102544401
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2752",
+    "gold": "sorting",
+    "top_k": [
+      [
+        "searching",
+        19.4181611690488
+      ],
+      [
+        "sorting",
+        6.596780070662102
+      ],
+      [
+        "linear_structure",
+        4.964722575641153
+      ],
+      [
+        "hash_table",
+        3.138627561088143
+      ],
+      [
+        "dynamic_programming",
+        1.4725934717842515
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-4337",
+    "gold": "sorting",
+    "top_k": [
+      [
+        "searching",
+        16.70438074709084
+      ],
+      [
+        "sorting",
+        8.609867349898678
+      ],
+      [
+        "hash_table",
+        3.3988010519021854
+      ],
+      [
+        "graph",
+        1.4067884370284043
+      ],
+      [
+        "linear_structure",
+        1.1383560295937798
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-3098",
+    "gold": "sorting",
+    "top_k": [
+      [
+        "sorting",
+        22.540687380498763
+      ],
+      [
+        "searching",
+        9.815186793886316
+      ],
+      [
+        "dynamic_programming",
+        7.05805775807901
+      ],
+      [
+        "linear_structure",
+        3.035476014479661
+      ],
+      [
+        "hash_table",
+        0.11310255906505162
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-4220",
+    "gold": "sorting",
+    "top_k": [
+      [
+        "searching",
+        17.812939092790266
+      ],
+      [
+        "sorting",
+        4.841412901168907
+      ],
+      [
+        "graph",
+        3.2395360580734867
+      ],
+      [
+        "hash_table",
+        2.051959362210809
+      ],
+      [
+        "dynamic_programming",
+        1.0671283636760869
+      ]
+    ]
+  },
+  {
+    "slug": "challenge-2212",
+    "gold": "sorting",
+    "top_k": [
+      [
+        "sorting",
+        14.914580311273617
+      ],
+      [
+        "searching",
+        12.134432040697497
+      ],
+      [
+        "dynamic_programming",
+        4.746148508696997
+      ],
+      [
+        "linear_structure",
+        1.550007267808616
+      ],
+      [
+        "graph",
+        1.073204264616277
+      ]
+    ]
+  }
+]

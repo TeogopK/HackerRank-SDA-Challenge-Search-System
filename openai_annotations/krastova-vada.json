@@ -1,0 +1,22 @@
+{
+  "id": "krastova-vada",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "жилищен комплекс",
+      "максималната дължина",
+      "правоъгълник",
+      "броя N",
+      "свободни за засторяване"
+    ],
+    "key_verbs": [
+      "построите",
+      "искате",
+      "изведете",
+      "получите",
+      "може"
+    ]
+  }
+}

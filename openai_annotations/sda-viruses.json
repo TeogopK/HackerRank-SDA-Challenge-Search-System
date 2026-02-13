@@ -1,0 +1,22 @@
+{
+  "id": "sda-viruses",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "N × M",
+      "заразени помещения",
+      "неимунизирани помещения",
+      "първоначални източници",
+      "минимален брой минути"
+    ],
+    "key_verbs": [
+      "зарази",
+      "разпространява",
+      "намерете",
+      "изведете",
+      "считаме"
+    ]
+  }
+}

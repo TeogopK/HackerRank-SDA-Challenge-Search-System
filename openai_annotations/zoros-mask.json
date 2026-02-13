@@ -1,0 +1,22 @@
+{
+  "id": "zoros-mask",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "битови маски",
+      "подмаска",
+      "число",
+      "броят на маските",
+      "включени битове"
+    ],
+    "key_verbs": [
+      "определя",
+      "харесва",
+      "изведе",
+      "зададено",
+      "интерпретират"
+    ]
+  }
+}

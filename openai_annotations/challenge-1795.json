@@ -1,0 +1,22 @@
+{
+  "id": "challenge-1795",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "двойно наредено дърво",
+      "функции",
+      "елемент",
+      "стандартният изход",
+      "операции"
+    ],
+    "key_verbs": [
+      "добавя",
+      "принтира",
+      "извежда",
+      "подадени",
+      "изпълнените"
+    ]
+  }
+}

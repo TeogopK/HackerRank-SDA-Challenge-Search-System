@@ -1,0 +1,24 @@
+{
+  "id": "cache-8",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [
+      "stack_queue"
+    ],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "кеш памет",
+      "заявки",
+      "елемент",
+      "ключ",
+      "стойност"
+    ],
+    "key_verbs": [
+      "добавя",
+      "обновява",
+      "отпечатва",
+      "изтрива",
+      "проверява"
+    ]
+  }
+}

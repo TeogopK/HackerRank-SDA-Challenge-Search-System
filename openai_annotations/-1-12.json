@@ -1,0 +1,22 @@
+{
+  "id": "-1-12",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "насочен граф",
+      "тегла по ребрата",
+      "функция",
+      "цикъл",
+      "тестове"
+    ],
+    "key_verbs": [
+      "проверява",
+      "написа",
+      "принтира",
+      "разделят",
+      "включва"
+    ]
+  }
+}

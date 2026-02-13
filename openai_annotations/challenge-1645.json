@@ -1,0 +1,22 @@
+{
+  "id": "challenge-1645",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "свързани списък",
+      "поток от числа",
+      "минималното число",
+      "максималното число",
+      "сумата от числата"
+    ],
+    "key_verbs": [
+      "създайте",
+      "чете",
+      "обходете",
+      "изведете",
+      "подадат"
+    ]
+  }
+}

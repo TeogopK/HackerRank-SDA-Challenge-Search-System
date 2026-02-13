@@ -1,0 +1,22 @@
+{
+  "id": "labirint",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "лабиринт",
+      "карта-матрица",
+      "клетка",
+      "препятствие",
+      "минимален брой стъпки"
+    ],
+    "key_verbs": [
+      "намерете",
+      "придвижите",
+      "влизате",
+      "преминавате",
+      "изведете"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cinema-2021",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "students",
+      "cinema",
+      "duration",
+      "infected",
+      "healthy"
+    ],
+    "key_verbs": [
+      "find",
+      "count",
+      "infect",
+      "sit",
+      "output"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3729",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "SinglyLinkedList",
+      "функцията void replace",
+      "стойността X",
+      "списък",
+      "стойността 1"
+    ],
+    "key_verbs": [
+      "замества",
+      "съдържащи",
+      "остава",
+      "променя",
+      "принтира"
+    ]
+  }
+}

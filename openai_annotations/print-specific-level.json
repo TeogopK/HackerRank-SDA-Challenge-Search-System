@@ -1,0 +1,22 @@
+{
+  "id": "print-specific-level",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "traversal",
+    "key_phrases": [
+      "възли на разстояние k",
+      "корена на дървото",
+      "дясно на ляво",
+      "числото k",
+      "върховете в дървото"
+    ],
+    "key_verbs": [
+      "принтира",
+      "изкарайте",
+      "приема",
+      "търсените",
+      "може"
+    ]
+  }
+}

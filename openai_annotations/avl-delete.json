@@ -1,0 +1,22 @@
+{
+  "id": "avl-delete",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "двоично дърво",
+      "методите за добавяне",
+      "изтриване на елемент",
+      "inorder обхождане",
+      "инструкции"
+    ],
+    "key_verbs": [
+      "реализирайте",
+      "добавяне",
+      "изтриване",
+      "обхождане",
+      "извеждане"
+    ]
+  }
+}

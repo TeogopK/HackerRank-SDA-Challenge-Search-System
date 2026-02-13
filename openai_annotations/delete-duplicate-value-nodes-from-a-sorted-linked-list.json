@@ -1,0 +1,22 @@
+{
+  "id": "delete-duplicate-value-nodes-from-a-sorted-linked-list",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "sorted linked list",
+      "duplicate-value nodes",
+      "distinct value",
+      "head pointer",
+      "revised list"
+    ],
+    "key_verbs": [
+      "delete",
+      "return",
+      "remove",
+      "complete",
+      "indicating"
+    ]
+  }
+}

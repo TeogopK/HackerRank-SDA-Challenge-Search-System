@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3148",
+  "annotation": {
+    "primary_topic": "priority_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "заявки",
+      "време за изчакване",
+      "минимално време",
+      "максимално време",
+      "обработка"
+    ],
+    "key_verbs": [
+      "обработва",
+      "извежда",
+      "предпочита",
+      "пристига",
+      "изчаква"
+    ]
+  }
+}

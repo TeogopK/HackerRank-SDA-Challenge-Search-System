@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3111",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "SinglyLinkedList",
+      "функция",
+      "елемент",
+      "списък",
+      "вход"
+    ],
+    "key_verbs": [
+      "реализирайте",
+      "премахва",
+      "работи",
+      "тества",
+      "извежда"
+    ]
+  }
+}

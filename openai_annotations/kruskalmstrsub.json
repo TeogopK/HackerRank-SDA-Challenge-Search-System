@@ -1,0 +1,22 @@
+{
+  "id": "kruskalmstrsub",
+  "annotation": {
+    "primary_topic": "minimum_spanning_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "undirected weighted connected graph",
+      "Really Special SubTree",
+      "minimum overall weight",
+      "exclusive path",
+      "no cycles"
+    ],
+    "key_verbs": [
+      "find",
+      "create",
+      "pick",
+      "determine",
+      "print"
+    ]
+  }
+}

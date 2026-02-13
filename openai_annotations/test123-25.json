@@ -1,0 +1,24 @@
+{
+  "id": "test123-25",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [
+      "graph_traversal"
+    ],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "weighted undirected graph",
+      "shortest path",
+      "vertices",
+      "edges",
+      "length"
+    ],
+    "key_verbs": [
+      "find",
+      "output",
+      "enter",
+      "achieve",
+      "start"
+    ]
+  }
+}

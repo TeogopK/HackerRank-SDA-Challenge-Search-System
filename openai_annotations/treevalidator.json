@@ -1,0 +1,22 @@
+{
+  "id": "treevalidator",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "неориентиран граф",
+      "валидно дърво",
+      "броя върхове",
+      "броя ребра",
+      "булева стойност"
+    ],
+    "key_verbs": [
+      "провери",
+      "реализирате",
+      "отговори",
+      "подаден",
+      "изведе"
+    ]
+  }
+}

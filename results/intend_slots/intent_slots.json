@@ -1,0 +1,3292 @@
+[
+  {
+    "slug": "--108",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "--149",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "--152",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "--164",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "--169",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "--68",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "--82",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "-1-12",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "-1-21",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "-2-5",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "-3-4",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "-4-6",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "-6-3",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "-8",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "-searching",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "-sorting",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "0-1-1",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-126-1",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-129",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-140",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-143",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-146-1",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-257",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-266",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-410",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-454",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-557",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-579",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "construction",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-6-6",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-7-4",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "1-806",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "2-115",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "2-146",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "2-251",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "2-52",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "2-61",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "94",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "a-225",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "all-paths42",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "another-array-inteview-problem-introcomplexities",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "arrays-interview-problem",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "attacking-vigorously-the-leaderboard",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "autocomplete-19-1",
+    "slots": {
+      "topic": "hash_table",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "avl-delete",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "balloons-and-candy",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "betweenus",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "bfsshortreach",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "bibibi",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "bonus-persistently-taller-",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "bonus-polygon-perimeter",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "brand-new",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "breakout",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "bridge-battle-1",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "bst-insert",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "cache-8",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "call-center-1",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1604",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1635",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1636",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-1637",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1645",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1646",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1647",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-1648",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-1668",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1669",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1679",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-1691",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1692",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1693",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1760",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1761",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1770",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1771",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "directed",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1795",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-1796",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2196",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2198",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2212",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2231",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2273",
+    "slots": {
+      "topic": "hash_table",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2274",
+    "slots": {
+      "topic": "hash_table",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2298",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2299",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2303",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2326",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2351",
+    "slots": {
+      "topic": "hash_table",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2352",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2353",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "construction",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2590",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2647",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2649",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2674",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2675",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2676",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2677",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2678",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2695",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2711",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2712",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2720",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2727",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2728",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2736",
+    "slots": {
+      "topic": "hash_table",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2737",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2739",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2748",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2752",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2753",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2762",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2763",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "decision_problem",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2774",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "directed",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2794",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2795",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "directed",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2799",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2801",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2805",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2806",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2817",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "directed",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2851",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2852",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2853",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-2854",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-2855",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-3065",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3066",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3068",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3074",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3088",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3089",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3091",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3098",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3099",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3105",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3111",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3112",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3113",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3148",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-3156",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3157",
+    "slots": {
+      "topic": "hash_table",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3648",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3668",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-3669",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3670",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3676",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3722",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "directed",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3723",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3724",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3729",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3730",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3754",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-3757",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3768",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-3769",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3770",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-3771",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3782",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-3826",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "construction",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3881",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-3904",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-3906",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4220",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4271",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-4334",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4335",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4337",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4346",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4388",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-4437",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4442",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4446",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4492",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4497",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-4505",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4506",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4561",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "challenge-4607",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-4609",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-5365",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-5368",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-5924",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-5930",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-6028",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "challenge-6029",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "traversal",
+      "direction": "directed",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "christmas-decoration",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "christmas-wishlists",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "cinema-2021",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "city-6",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "cloning-socks",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "closest-apartments",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "clusterstask",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "coachsort",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "components-in-graph",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "components-mst-k",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "cows-sda",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "cycles-components",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "darts-501",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "delete-a-node-from-a-linked-list",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "delete-duplicate-value-nodes-from-a-sorted-linked-list",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "discos",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "doom",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "dundee-the-crocodile",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "edgesoftheworld",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "electrical-energy",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "elitism",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "encoding-password",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "exam-5-1",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "exam-7",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "file-systems",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "find-element-sda",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "find-the-merge-point-of-two-joined-linked-lists",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "floyd-city-of-blinding-lights",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "fmicake",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "forest-1",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "fullstack-developer",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "grand-hotel",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "highways",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "html-attributes",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "if-you-reading-this-get-baited",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "implement-nearest-neighbour",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "insert-a-node-at-a-specific-position-in-a-linked-list",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "islander",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "just-sorting-1",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "k--12",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "kosi",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "krastova-vada",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "kruskalmstrsub",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "labirint",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "leafs",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "left-right-2",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "lego-army",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "lego-from-ali-express",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "lekcii",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "level-average",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "linked-numbers",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "logging-monitoring-alerting",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "long-long",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "longest-match",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "los-binares",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "match-2",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "maze-9",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "merge-intervals42",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "merge-two-sorted-linked-lists",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "min-max-intervals",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "minimum-xor-3",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "minstack",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "missing-bus-ticket",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "mission-sda",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "monster-trucks",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "monster-world",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "netflix-1-1",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "npm-install-1",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "numbers-13-1",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "parent",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "penultimate-descendants",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "playjewel",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "print-specific-level",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "puncakes",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "queries-5",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "reachable-employees",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "rename",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "reverse-a-linked-list",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "roads-5",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "rotten-from-the-core",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "schedule-sda",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "sda-exam",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "sda-viruses",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "shortest-path-25",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "unknown",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "shortest-paths-2",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "shortest-tour",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "construction",
+      "direction": "directed",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "snow-1",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "some-challange",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "sorting-vol-1",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "sorting-vol-2",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "sorting-vol-3",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "sorting-vol-4",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "stock-profits",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "strawberries-sda",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "stroitel",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "subarray123",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "substring-frequency-1",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "supernatural",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task-1-1-1",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task-1-3-2",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task-2-1-1",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task-2-1-2",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task-3-1-1",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task-3-1-2",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task-4-1-1",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task-4-1-2",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "task1-6-3",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task2-3",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "task2sum",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "task3-1",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "task3score",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "test123-25",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "test234",
+    "slots": {
+      "topic": "shortest_path",
+      "paradigm": "optimization",
+      "direction": "undirected",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "test3-zad1",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "text-contents",
+    "slots": {
+      "topic": "stack_queue",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "the-first-challenge-v53",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "top",
+    "slots": {
+      "topic": "binary_search_tree",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "traffic-light-groups",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "traversal-level-order",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "traversal",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "tree-height-of-a-binary-tree",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "tree-specific-print",
+    "slots": {
+      "topic": "tree",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "tree-top-view",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "treevalidator",
+    "slots": {
+      "topic": "graph_traversal",
+      "paradigm": "counting",
+      "direction": "undirected",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "truck-ordering",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "trucks",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "tunnel-maps",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "directed",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "two-pqs",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "unique-4",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "unique-rows",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "unique-students",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "validate-bst-2",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "search_task",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "vertical-sums",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "violets",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "volleyball-friends",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "walking-median-sorting",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "construction",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "weighing-animals",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "weird-array-1",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "who-wants-to-be-a-palindrome-intro-sorting",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "winterwinter",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "world-renowned-programmer",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "x-37",
+    "slots": {
+      "topic": "dynamic_programming",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "za-vkushti-ili-v-torbichka",
+    "slots": {
+      "topic": "linked_list",
+      "paradigm": "unknown",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "zad2",
+    "slots": {
+      "topic": "searching",
+      "paradigm": "optimization",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": true
+    }
+  },
+  {
+    "slug": "zoros-mask",
+    "slots": {
+      "topic": "unknown",
+      "paradigm": "counting",
+      "direction": "unknown",
+      "weighted": false,
+      "multiple_tests": false
+    }
+  },
+  {
+    "slug": "zuma-1",
+    "slots": {
+      "topic": "sorting",
+      "paradigm": "decision_problem",
+      "direction": "unknown",
+      "weighted": true,
+      "multiple_tests": true
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": "missing-bus-ticket",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "билет с номер",
+      "списък на продадените билети",
+      "положителни номера",
+      "най-малкият номер",
+      "номер на билета"
+    ],
+    "key_verbs": [
+      "разберете",
+      "притежава",
+      "дава",
+      "купя",
+      "изведете"
+    ]
+  }
+}

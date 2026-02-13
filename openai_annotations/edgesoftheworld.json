@@ -1,0 +1,22 @@
+{
+  "id": "edgesoftheworld",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "неориентиран граф",
+      "броя на върховете",
+      "броя на ребрата",
+      "компонента на свързаност",
+      "възходящ ред"
+    ],
+    "key_verbs": [
+      "намерите",
+      "изведете",
+      "съдържа",
+      "показват",
+      "сортирани"
+    ]
+  }
+}

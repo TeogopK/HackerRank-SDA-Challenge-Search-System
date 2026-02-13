@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2678",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "последователност от двойки",
+      "ефективност",
+      "формулата (X*X)/Y",
+      "индексите двойките",
+      "намаляващ ред"
+    ],
+    "key_verbs": [
+      "сортираме",
+      "приемаме",
+      "изведете",
+      "подадени",
+      "разделени"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "breakout",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "shortest_path"
+    ],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "empty cells",
+      "blocked cells",
+      "escape time",
+      "matrix",
+      "walls"
+    ],
+    "key_verbs": [
+      "move",
+      "find",
+      "reach",
+      "count",
+      "help"
+    ]
+  }
+}

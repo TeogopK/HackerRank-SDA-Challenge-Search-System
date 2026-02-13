@@ -1,0 +1,22 @@
+{
+  "id": "top",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "двойно дърво",
+      "върхове",
+      "координати",
+      "горен изглед",
+      "preorder обхождане"
+    ],
+    "key_verbs": [
+      "намерите",
+      "виждат",
+      "изкарате",
+      "въвежда",
+      "извеждат"
+    ]
+  }
+}

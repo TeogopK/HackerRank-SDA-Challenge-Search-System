@@ -1,0 +1,22 @@
+{
+  "id": "delete-a-node-from-a-linked-list",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "node",
+      "linked list",
+      "position",
+      "head node",
+      "null value"
+    ],
+    "key_verbs": [
+      "delete",
+      "return",
+      "remove",
+      "complete",
+      "contains"
+    ]
+  }
+}

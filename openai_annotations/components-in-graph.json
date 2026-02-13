@@ -1,0 +1,22 @@
+{
+  "id": "components-in-graph",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "connected components",
+      "undirected graph",
+      "list of edges",
+      "smallest component",
+      "largest component"
+    ],
+    "key_verbs": [
+      "determine",
+      "consider",
+      "return",
+      "represent",
+      "complete"
+    ]
+  }
+}

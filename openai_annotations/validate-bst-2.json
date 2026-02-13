@@ -1,0 +1,22 @@
+{
+  "id": "validate-bst-2",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "коледно дърво",
+      "двойно дърво",
+      "върхове",
+      "съседи",
+      "валидно"
+    ],
+    "key_verbs": [
+      "проверите",
+      "въведете",
+      "кажете",
+      "изведете",
+      "отговарят"
+    ]
+  }
+}

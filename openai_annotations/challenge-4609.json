@@ -1,0 +1,22 @@
+{
+  "id": "challenge-4609",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "малки латински букви",
+      "премахването на един символ",
+      "възможно всеки знак",
+      "върнете дали",
+      "броя на низовете"
+    ],
+    "key_verbs": [
+      "върнете",
+      "съдържа",
+      "среща",
+      "изведете",
+      "премахването"
+    ]
+  }
+}

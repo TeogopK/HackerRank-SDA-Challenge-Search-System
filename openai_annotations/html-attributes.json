@@ -1,0 +1,22 @@
+{
+  "id": "html-attributes",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "HTML attributes",
+      "tags",
+      "input format",
+      "sample output",
+      "valid HTML document"
+    ],
+    "key_verbs": [
+      "create",
+      "find",
+      "output",
+      "list",
+      "detect"
+    ]
+  }
+}

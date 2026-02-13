@@ -1,0 +1,22 @@
+{
+  "id": "parent",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "родословно дърво",
+      "върха",
+      "заявки",
+      "родител",
+      "предшественик"
+    ],
+    "key_verbs": [
+      "разберете",
+      "споменава",
+      "казва",
+      "въвежда",
+      "извеждат"
+    ]
+  }
+}

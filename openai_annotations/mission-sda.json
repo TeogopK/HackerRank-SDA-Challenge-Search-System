@@ -1,0 +1,22 @@
+{
+  "id": "mission-sda",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "минимална оценка",
+      "брой студенти",
+      "оценки на студентите",
+      "възможно всички",
+      "преминаване"
+    ],
+    "key_verbs": [
+      "определете",
+      "може",
+      "дадат",
+      "минат",
+      "изкарал"
+    ]
+  }
+}

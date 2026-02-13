@@ -1,0 +1,22 @@
+{
+  "id": "schedule-sda",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "студент",
+      "събития",
+      "началото",
+      "продължителността",
+      "максимален брой"
+    ],
+    "key_verbs": [
+      "взема",
+      "отиде",
+      "решава",
+      "описва",
+      "отпечатайте"
+    ]
+  }
+}

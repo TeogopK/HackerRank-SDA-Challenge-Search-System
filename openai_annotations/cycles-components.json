@@ -1,0 +1,22 @@
+{
+  "id": "cycles-components",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "свързани компоненти",
+      "ненасочен граф",
+      "цикъл",
+      "възли",
+      "ребра"
+    ],
+    "key_verbs": [
+      "намерете",
+      "установи",
+      "изведете",
+      "върнете",
+      "съществува"
+    ]
+  }
+}

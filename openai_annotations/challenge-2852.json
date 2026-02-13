@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2852",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "ненасочен граф",
+      "двойки върхове",
+      "път в графа",
+      "броя върхове",
+      "броя ребра"
+    ],
+    "key_verbs": [
+      "отговорете",
+      "има",
+      "свързва",
+      "пита",
+      "показва"
+    ]
+  }
+}

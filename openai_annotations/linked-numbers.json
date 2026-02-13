@@ -1,0 +1,20 @@
+{
+  "id": "linked-numbers",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "linked lists",
+      "two numbers",
+      "sum",
+      "digits",
+      "input format"
+    ],
+    "key_verbs": [
+      "find",
+      "read",
+      "output"
+    ]
+  }
+}

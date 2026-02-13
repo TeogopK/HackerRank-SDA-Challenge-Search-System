@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2352",
+  "annotation": {
+    "primary_topic": "binary_search_tree",
+    "secondary_topics": [],
+    "problem_paradigm": "traversal",
+    "key_phrases": [
+      "двойно дърво",
+      "ляв профил",
+      "възел",
+      "корен",
+      "клон"
+    ],
+    "key_verbs": [
+      "намира",
+      "гледа",
+      "принтирайте",
+      "реализирайте",
+      "виждаме"
+    ]
+  }
+}

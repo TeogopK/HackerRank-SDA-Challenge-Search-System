@@ -1,0 +1,22 @@
+{
+  "id": "--152",
+  "annotation": {
+    "primary_topic": "shortest_path",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "граф",
+      "върха",
+      "пътища",
+      "последователност",
+      "забранени"
+    ],
+    "key_verbs": [
+      "обходите",
+      "намерите",
+      "срещнат",
+      "минува",
+      "съдържа"
+    ]
+  }
+}

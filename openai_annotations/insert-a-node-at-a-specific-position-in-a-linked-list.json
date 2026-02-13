@@ -1,0 +1,22 @@
+{
+  "id": "insert-a-node-at-a-specific-position-in-a-linked-list",
+  "annotation": {
+    "primary_topic": "linked_list",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "linked list",
+      "new node",
+      "insert",
+      "specific position",
+      "head node"
+    ],
+    "key_verbs": [
+      "insert",
+      "create",
+      "return",
+      "indicate",
+      "complete"
+    ]
+  }
+}

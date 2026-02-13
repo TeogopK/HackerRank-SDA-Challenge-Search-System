@@ -1,0 +1,22 @@
+{
+  "id": "unique-rows",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "правоъгълна матрица",
+      "уникални редове",
+      "положителни числа",
+      "броят на уникалните редове",
+      "същите елементи"
+    ],
+    "key_verbs": [
+      "намери",
+      "съдържа",
+      "въведат",
+      "изведете",
+      "има"
+    ]
+  }
+}

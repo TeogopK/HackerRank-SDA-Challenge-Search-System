@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2762",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "градове",
+      "пътища",
+      "граф",
+      "свързани компонента",
+      "върхове"
+    ],
+    "key_verbs": [
+      "проверка",
+      "обиколите",
+      "разберете",
+      "върнете",
+      "изведете"
+    ]
+  }
+}

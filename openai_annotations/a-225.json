@@ -1,0 +1,22 @@
+{
+  "id": "a-225",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "поредни дни",
+      "минимална печалба",
+      "печалба за деня",
+      "цените на акциите",
+      "необходимите пари"
+    ],
+    "key_verbs": [
+      "намери",
+      "събере",
+      "спечели",
+      "загуби",
+      "изведи"
+    ]
+  }
+}

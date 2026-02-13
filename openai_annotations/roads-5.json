@@ -1,0 +1,22 @@
+{
+  "id": "roads-5",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "градове",
+      "пътища",
+      "заявки",
+      "проходима отсечка",
+      "състояние на пътищата"
+    ],
+    "key_verbs": [
+      "стигне",
+      "отговарят",
+      "почистена",
+      "свързва",
+      "зададени"
+    ]
+  }
+}

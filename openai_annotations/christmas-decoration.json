@@ -1,0 +1,22 @@
+{
+  "id": "christmas-decoration",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "коледни играчки",
+      "изисквания за двойки",
+      "най-голям брой цветове",
+      "играчки",
+      "оцветяване"
+    ],
+    "key_verbs": [
+      "намира",
+      "оцвети",
+      "използва",
+      "записани",
+      "изведете"
+    ]
+  }
+}

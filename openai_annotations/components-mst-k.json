@@ -1,0 +1,24 @@
+{
+  "id": "components-mst-k",
+  "annotation": {
+    "primary_topic": "minimum_spanning_tree",
+    "secondary_topics": [
+      "graph_traversal"
+    ],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "minimum spanning tree",
+      "connected components",
+      "number of vertices",
+      "sum of edges",
+      "undirected graphs"
+    ],
+    "key_verbs": [
+      "output",
+      "add",
+      "divide",
+      "input",
+      "calculate"
+    ]
+  }
+}

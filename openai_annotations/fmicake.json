@@ -1,0 +1,22 @@
+{
+  "id": "fmicake",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "бисквити",
+      "отделения",
+      "броят на разделенията",
+      "минималният брой дни",
+      "число p"
+    ],
+    "key_verbs": [
+      "изяде",
+      "откриете",
+      "намисля",
+      "вземете",
+      "сложила"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cows-sda",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "колиби",
+      "крави",
+      "разстояние",
+      "максимално разстояние",
+      "млекодобив"
+    ],
+    "key_verbs": [
+      "подреди",
+      "справи",
+      "намери",
+      "прибира",
+      "дават"
+    ]
+  }
+}

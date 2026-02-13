@@ -1,0 +1,22 @@
+{
+  "id": "zuma-1",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "разноцветни топчета",
+      "заявки",
+      "изстрелвате топче",
+      "броя на унищожените топчета",
+      "крайното състояние"
+    ],
+    "key_verbs": [
+      "изстрелвате",
+      "унищожена",
+      "отговорите",
+      "изведете",
+      "залепят"
+    ]
+  }
+}

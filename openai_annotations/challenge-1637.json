@@ -1,0 +1,22 @@
+{
+  "id": "challenge-1637",
+  "annotation": {
+    "primary_topic": "sorting",
+    "secondary_topics": [],
+    "problem_paradigm": "construction",
+    "key_phrases": [
+      "сортиране",
+      "дубликати",
+      "масив",
+      "уникални числа",
+      "наредена последователност"
+    ],
+    "key_verbs": [
+      "проверка",
+      "напишете",
+      "сортира",
+      "премахва",
+      "съдържа"
+    ]
+  }
+}

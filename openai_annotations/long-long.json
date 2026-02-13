@@ -1,0 +1,24 @@
+{
+  "id": "long-long",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "shortest_path"
+    ],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "дългия път",
+      "граф",
+      "тегла цели числа",
+      "начален връх",
+      "краен връх"
+    ],
+    "key_verbs": [
+      "намери",
+      "изведете",
+      "счита",
+      "съдържащ",
+      "обозначаващ"
+    ]
+  }
+}

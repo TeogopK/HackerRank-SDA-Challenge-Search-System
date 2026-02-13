@@ -1,0 +1,24 @@
+{
+  "id": "islander",
+  "annotation": {
+    "primary_topic": "graph_traversal",
+    "secondary_topics": [
+      "eulerian_hamiltonian"
+    ],
+    "problem_paradigm": "decision_problem",
+    "key_phrases": [
+      "Ойлеров цикъл",
+      "граф",
+      "върхове",
+      "ребра",
+      "заявки"
+    ],
+    "key_verbs": [
+      "определите",
+      "посети",
+      "обходи",
+      "изведете",
+      "съдържа"
+    ]
+  }
+}

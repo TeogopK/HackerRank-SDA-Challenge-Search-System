@@ -1,0 +1,22 @@
+{
+  "id": "challenge-2728",
+  "annotation": {
+    "primary_topic": "priority_queue",
+    "secondary_topics": [],
+    "problem_paradigm": "optimization",
+    "key_phrases": [
+      "заявки за зали",
+      "минимум зали",
+      "застъпващи се часове",
+      "начален и краен час",
+      "отделни зали"
+    ],
+    "key_verbs": [
+      "определите",
+      "изисква",
+      "запазване",
+      "игнорира",
+      "отвори"
+    ]
+  }
+}

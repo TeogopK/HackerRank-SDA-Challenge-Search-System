@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3066",
+  "annotation": {
+    "primary_topic": "dynamic_programming",
+    "secondary_topics": [],
+    "problem_paradigm": "counting",
+    "key_phrases": [
+      "точен куб",
+      "подаръци",
+      "точки",
+      "покупка",
+      "цяло положително число"
+    ],
+    "key_verbs": [
+      "разменят",
+      "изхaрчи",
+      "вземе",
+      "остане",
+      "купя"
+    ]
+  }
+}

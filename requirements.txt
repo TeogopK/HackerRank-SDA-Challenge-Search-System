@@ -1,0 +1,12 @@
+playwright>=1.41.2
+python-dotenv>=1.0.1
+pandas>=2.2.0
+scikit-learn>=1.4.0
+numpy>=1.26.4
+openai>=1.12.0
+python-dotenv>=1.0.1
+classla>=1.1.0
+nltk>=3.8
+stopwordsiso
+sentence-transformers>=2.2.0
+streamlit>=1.30.0

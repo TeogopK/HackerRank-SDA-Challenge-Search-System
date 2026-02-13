@@ -1,0 +1,22 @@
+{
+  "id": "challenge-3881",
+  "annotation": {
+    "primary_topic": "hash_table",
+    "secondary_topics": [],
+    "problem_paradigm": "search_task",
+    "key_phrases": [
+      "най-продаван артикул",
+      "закупени артикули",
+      "времето",
+      "заявки",
+      "купувания"
+    ],
+    "key_verbs": [
+      "върнете",
+      "написа",
+      "получите",
+      "състоят",
+      "изход"
+    ]
+  }
+}
