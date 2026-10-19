@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+numpy>=1.26.4
+pandas>=2.2.0
+scipy
+scikit-learn>=1.4.0
+classla>=1.1.0
+stopwordsiso
+sentence-transformers>=2.2.0
