@@ -1,3 +1,4 @@
+import os
 import re
 import json
 import pickle
@@ -89,10 +90,17 @@ def load_index():
 # Lazy-loaded: only when the user actually searches
 @st.cache_resource(show_spinner="Loading search models (first search only)...")
 def load_search_models():
+    # classla 1.1 checkpoints predate torch>=2.6's weights_only=True default for torch.load
+    os.environ.setdefault("TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD", "1")
     import classla
     import stopwordsiso
     from sentence_transformers import SentenceTransformer
-    nlp_pipeline = classla.Pipeline("bg", processors="tokenize,pos,lemma", tokenize_no_ssplit=True)
+    try:
+        nlp_pipeline = classla.Pipeline("bg", processors="tokenize,pos,lemma", tokenize_no_ssplit=True)
+    except Exception:
+        # Fresh environment (e.g. Streamlit Cloud): the Bulgarian model isn't downloaded yet
+        classla.download("bg")
+        nlp_pipeline = classla.Pipeline("bg", processors="tokenize,pos,lemma", tokenize_no_ssplit=True)
     bert_model = SentenceTransformer(BERT_MODEL)
     stopwords = set(stopwordsiso.stopwords("bg"))
     return nlp_pipeline, bert_model, stopwords
